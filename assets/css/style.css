@@ -18,6 +18,12 @@
   margin: 0 0 15px;
 }
 
+.descTime {
+  color: #c7c7c7;
+  font-size: 0.8em;
+  margin-left: 1em;
+}
+
 .frisedate {
   margin-top: -10px;
   top: 50%;
@@ -122,3 +128,30 @@ label {
   -webkit-transition: color 0.3s linear 0.3s;
 }
 /* FIN TIMELINE*/
+
+
+/* FLOAT EFFECT */
+
+
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+
+.iconefloat {
+  color: #7cd16d;
+  font-size: 2em;
+	overflow: hidden;
+	transform: translatey(0px);
+	animation: float 6s ease-in-out infinite;
+}
+
