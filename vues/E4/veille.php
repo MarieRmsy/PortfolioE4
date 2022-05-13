@@ -1,18 +1,3 @@
-<!DOCTYPE HTML>
-
-<html>
-	<head>
-		<link href="https://fr.allfont.net/allfont.css?fonts=play-bold" rel="stylesheet" type="text/css" />
-		<title>Projets - M.R Portoflio</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../assets/css/main.css" />
-		<link rel="shortcut icon" type="image/png" href="../assets/stuff/efreicarre.png"/>
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
 
 				<!-- Main -->
 					<div id="main">
@@ -32,7 +17,7 @@
 								
 								<section>
 									
-								<header class="box" style="margin-top: 60px;">
+								<header class="box">
 									<h2><font color = #168fac>Qu'est-ce que la veille technologique ?</font></h2>
 									<h4>
 										La veille technologique, élément de la veille stratégique, consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donnée. La veille technologique comprend notamment la surveillance, la collecte, le partage et la diffusion d’information permettant d’anticiper ou de s’informer sur des changements en matière de recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts, innovation de fabrication, etc…. Cela a pour but d’évaluer l’impact sur l’environnement et l’organisation.</h4>
@@ -43,54 +28,3 @@
 								</section>
 						</div>
 					</div>
-
-				<!-- Sidebar -->
-				<div id="sidebar">
-					<div class="inner">
-
-						<!-- Search -->
-							<section id="search" class="alt">
-								<form method="post" action="#">
-									<h2><font color = #ffffff >Me contacter</h2>
-										<ul class="contact">
-											<a href="mailto:ramssamy.marie@gmail.com"><li class="icon solid fa-envelope">ramssamy.marie@gmail.com</li></a>
-										</ul>
-								</form>
-							</section>
-							<!-- Triangle -->
-						<div id="triangle-code" style="display:inline-block; 
-						height:  0em;
-						width: 0;
-						border-top: 2em solid #168fac;
-						border-right: 3em solid transparent;
-						margin: 0em 0em 0em 20.7em;
-						">
-						</div>
-
-						<!-- Menu -->
-                        <nav id="menu">
-							<br/>
-							<header class="major">
-								<h2>Epreuve E4</h2>
-							</header>
-							<ul>
-								<li><h4><a href="../E4/btssio.php">Présentation BTS SIO</a></h4></li>
-								<li><h4><a href="../E4/veille.php">Veille technologique</a></h4></li>
-							</ul>
-
-                            <h2><a href="../index.php">Retour</a></h2>
-						</nav>
-						
-					</div>
-				</div>
-		</div>
-
-		<!-- Scripts -->
-			<script src="../assets/js/jquery.min.js"></script>
-			<script src="../assets/js/browser.min.js"></script>
-			<script src="../assets/js/breakpoints.min.js"></script>
-			<script src="../assets/js/util.js"></script>
-			<script src="../assets/js/main.js"></script>
-
-	</body>
-</html>

@@ -159,7 +159,7 @@
 							<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
-										<h2><a href="../../index.php">Retour</a></h2>
+										<h2><a href="index.php">Retour</a></h2>
 									</header>
 									
 								</nav>

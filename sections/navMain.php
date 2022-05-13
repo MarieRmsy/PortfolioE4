@@ -15,7 +15,7 @@
 
 									<br/>
 									<header class="major">
-										<h2><a href="vues/E4/btssio.php">Epreuve E4</a></h2>
+										<h2><a href="index.php?action=e4">Epreuve E4</a></h2>
 									</header>
 								</nav>
 

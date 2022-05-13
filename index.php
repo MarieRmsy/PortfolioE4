@@ -36,6 +36,14 @@
 					include("vues/projets.php");
 					break;
 
+					case 'e4' :
+					include("vues/E4/btssio.php");
+					break;
+
+					case 'veille' :
+					include("vues/E4/veille.php");
+					break;
+
 					default: include("sections/accueil.php");
 					break;
 					}
@@ -76,8 +84,12 @@
 									break;
 
 									case 'e4' :
-										include("sections/navE4.php");
-										break;
+									include("sections/navE4.php");
+									break;
+									
+									case 'veille' :
+									include("sections/navE4.php");
+									break;
 
 									default: include("sections/navMain.php");
 									break;
