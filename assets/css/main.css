@@ -1,7 +1,39 @@
 @import url(fontawesome-all.min.css);
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700"); */
-/* @import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=ProductSans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ProductSans:wght@700&display=swap'); */
+
+@font-face {
+  font-family: "ProductSans";
+  src: url("../font/ProductSans-Medium.woff") format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "ProductSans";
+  src: url("../font/ProductSans-Light.woff") format('woff');
+  font-weight: lighter;
+}
+
+
+@font-face {
+  font-family: "ProductSans";
+  src: url("../font/ProductSans-Bold.woff") format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "ProductSans";
+  src: url("../font/ProductSans-BoldItalic.woff") format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ProductSans";
+  src: url("../font/ProductSans-Italic.woff") format('woff');
+  font-style: italic;
+}
 
 /*
 	Editorial by HTML5 UP
@@ -117,7 +149,7 @@ body {
 /* Type */
 body, input, select, textarea {
   color: #7f888f;
-  font-family: "Play";
+  font-family: "ProductSans";
   font-size: 12pt;
   font-weight: 400;
   line-height: 1.65; }
@@ -161,7 +193,7 @@ p {
 
 h1, h2, h3, h4, h5 {
   color: #3d4449;
-  font-family: "Play";
+  font-family: "ProductSans";
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 1em 0; }
@@ -193,7 +225,7 @@ h6 {
   margin: 2.5em 0 2em 0;
   line-height: 1.4;
   color: #3d4449;
-  font-family: "Play";
+  font-family: "ProductSans";
   line-height: 1.5;}
 
 h6 + nobr {
@@ -238,14 +270,14 @@ code {
   background: rgba(230, 235, 237, 0.25);
   border-radius: 0.375em;
   border: solid 1px rgba(210, 215, 217, 0.75);
-  font-family: "Play", monospace;
+  font-family: "ProductSans", monospace;
   font-size: 0.9em;
   margin: 0 0.25em;
   padding: 0.25em 0.65em; }
 
 pre {
   -webkit-overflow-scrolling: touch;
-  font-family: "Play";
+  font-family: "ProductSans";
   font-size: 0.9em;
   margin: 0 0 2em 0; }
   pre code {
@@ -1062,7 +1094,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Play";
+  font-family: "ProductSans";
   font-size: 2em;
   font-weight: 400;
   letter-spacing: 0.0em;
@@ -1588,7 +1620,7 @@ button,
   color: #20a7d4 !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Play", serif;
+  font-family: "ProductSans", serif;
   font-size: 0.8em;
   font-weight: 700;
   height: 3.5em;
@@ -2149,7 +2181,7 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: "Play", serif;
+    font-family: "ProductSans", serif;
     font-size: 4em; 
     text-shadow: 1px 1px 3px;}
   #header .icons {
@@ -2262,7 +2294,7 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #353535;
-  font-family: "Play", serif;
+  font-family: "ProductSans", serif;
   font-weight: bold;
   letter-spacing: 0.015em;
   list-style: none;

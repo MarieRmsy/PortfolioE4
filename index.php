@@ -2,8 +2,7 @@
 
 <html>
 	<head>
-		<link href="https://fr.allfont.net/allfont.css?fonts=play-bold" rel="stylesheet" type="text/css" />
-		<link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=ProductSans' rel='stylesheet' type='text/css'>
 		<title>Marie Ramssamy - Mon Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

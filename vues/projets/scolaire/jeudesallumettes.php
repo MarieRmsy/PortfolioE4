@@ -2,7 +2,6 @@
 
 <html>
 	<head>
-		<link href="https://fr.allfont.net/allfont.css?fonts=play-bold" rel="stylesheet" type="text/css" />
 		<title>Jeu Des Allumettes- M.R Portoflio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

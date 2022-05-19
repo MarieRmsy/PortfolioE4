@@ -98,6 +98,7 @@ label {
   -webkit-transition: -webkit-transform 0.2s linear;
 }
 .friselabel {
+  font-weight: normal;
   border: none;
   }
 
