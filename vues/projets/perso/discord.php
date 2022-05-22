@@ -14,65 +14,65 @@
 
 							<!--Content-->
 							<div class="box">
-							<div class="row gtr-200">
-								<div class="col-6 col-12-medium">
-									<div class="row">
-									
-										<div class="col-14 col-12-small">
-											
-											<dl>
-													
-											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
-												  ◆ Présentation</dt>
-												<dd>Ce projet est entièrement personnel. Utilsant le logiciel de messagerie instantanée Discord, j'ai voulue créer des Bots 
-													permettant d'effectuer quelques tâches ou jeux sur ce logiciel. La conception de Bot Discord est ouverte à tous, et possible en différents langages informatiques.
-													J'ai donc décidé d'apprendre les bases du javascript par passion pour la programmation, et de manière totalement autonome. Pour cela je me suis équipé des bons outils 
-													tels que les documentations en lignes, par exemple grâce aux sites 
-													<a target = "_blank" href="https://developer.mozilla.org/fr/">MDN</a> 
-													et 
-													<a target="_blank" href="https://discord.js.org/#/docs/main/stable/general/welcome"> Discord.js</a>.
-													<br /><br /><br /><br /> 
+								<div class="row gtr-200">
+									<div class="col-6 col-12-medium">
+										<div class="row">
+										
+											<div class="col-14 col-12-small">
+												
+												<dl>
+														
+												<dt style="border-radius: 10px; border: 3px solid #168fac;" >
+													  ◆ Présentation</dt>
+													<dd>Ce projet est entièrement personnel. Utilsant le logiciel de messagerie instantanée Discord, j'ai voulue créer des Bots 
+														permettant d'effectuer quelques tâches ou jeux sur ce logiciel. La conception de Bot Discord est ouverte à tous, et possible en différents langages informatiques.
+														J'ai donc décidé d'apprendre les bases du javascript par passion pour la programmation, et de manière totalement autonome. Pour cela je me suis équipé des bons outils 
+														tels que les documentations en lignes, par exemple grâce aux sites 
+														<a target = "_blank" href="https://developer.mozilla.org/fr/">MDN</a> 
+														et 
+														<a target="_blank" href="https://discord.js.org/#/docs/main/stable/general/welcome"> Discord.js</a>.
+														<br /><br /><br /><br /> 
+													</dd>
+
+
+												<dt style="border-radius: 10px; border: 3px solid #168fac;" >
+													  ••• Compétences travaillées</dt>
+												<dd>
+													<ul>
+														<li>Rechercher des cours et des supports de <b>bonne qualité</b> sur internet</li>
+														<li>Capacité à <b>assimiler les codes</b> d'un nouveau langage informatique </li>
+														<li>Comprendre le <b>rôle du javascript</b> dans le monde de la programmation</li>
+														<li>Utiliser l'<b>API Discord</b> ainsi que la documentation Discord.js de manière créative<br /><br /><br /></li>
+													</ul>
 												</dd>
 
+											<dt style="border-radius: 10px; border: 3px solid #168fac;">
+												  ➤ Caractéristiques</dt>
+												<dd>
+													<ul class="alt">
+														<li>Objet : Projet personnel</li>
+														<li>Type : Coder pour apprendre et s'amuser</li>
+														<li>Période : 2019-2020</li>
+														<li>Outis : Visual Studio Code, console Node.js</li>
+													</ul>
+												</dd>
 
-											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
-												  ••• Compétences travaillées</dt>
-											<dd>
-												<ul>
-													<li>Rechercher des cours et des supports de <b>bonne qualité</b> sur internet</li>
-													<li>Capacité à <b>assimiler les codes</b> d'un nouveau langage informatique </li>
-													<li>Comprendre le <b>rôle du javascript</b> dans le monde de la programmation</li>
-													<li>Utiliser l'<b>API Discord</b> ainsi que la documentation Discord.js de manière créative<br /><br /><br /></li>
-												</ul>
-											</dd>
-
-										<dt style="border-radius: 10px; border: 3px solid #168fac;">
-											  ➤ Caractéristiques</dt>
-											<dd>
-												<ul class="alt">
-													<li>Objet : Projet personnel</li>
-													<li>Type : Coder pour apprendre et s'amuser</li>
-													<li>Période : 2019-2020</li>
-													<li>Outis : Visual Studio Code, console Node.js</li>
-												</ul>
-											</dd>
-
-											</dl>
+												</dl>
+											</div>
 										</div>
+									
 									</div>
 								
+									<div class="col-6 col-12-medium">
+										<video controls
+										style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
+										autostart="false" 
+										width="620">
+											<source src="assets/stuff/homu.mp4"/>
+										</video>
+										
+									</div>
 								</div>
-							
-								<div class="col-6 col-12-medium">
-									<video controls
-									style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
-									autostart="false" 
-									width="620">
-										<source src="assets/stuff/homu.mp4"/>
-									</video>
-									
-								</div>
-							</div>
 
 							</div>
 								<br/><br/><br/>
