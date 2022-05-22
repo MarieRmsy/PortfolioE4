@@ -6,11 +6,7 @@
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
-									">Lightsout  <bobr style="
-									font-weight: 10;
-									font-size: 0.8em;
-									color: #777;
-									">.Python</nobr>
+									">Lightsout  <nobr class="typeProj">.Python</nobr>
 									</h6>
 								</header>
 							</section>
@@ -52,7 +48,7 @@
 										<li>Type : Travail de groupe (3 élèves)</li>
 										<li>Période : Mars-Mai 2020</li>
 										<li>Délais : 2 mois (prévu avant le confinement)</li>
-										<li>Logiciel : IDLE Python(3.7)</li>
+										<li>Logiciels : IDLE Python(3.7)</li>
 									</ul>
 								</dd>
 

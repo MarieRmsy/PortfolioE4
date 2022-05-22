@@ -1,0 +1,19 @@
+
+<li>Rechercher des cours et des supports de <b>bonne qualité</b> sur internet</li>
+<li>Capacité à <b>assimiler les codes</b> d'un nouveau langage informatique </li>
+<li>Comprendre le <b>rôle du javascript</b> dans le monde de la programmation</li>
+<li>Utiliser l'<b>API Discord</b> ainsi que la documentation Discord.js de manière créative<br /><br /><br /></li>
+
+<li>Étudier une situation pour en comprendre le <b>fonctionnement</b></li>
+<li>Retranscrire des concepts abstraits en différents <b>évènements</b> à coder </li>
+<li>Tenir un <b>cahier des charges</b>  en équipe</li>
+<li>Créer une interface graphique avec <b>TKinter</b> <br /></li>
+
+<li>Étudier une situation et en déduire le fonctionnement </li>
+<li>Créer une présentation <b>explicative</b> sur PowerPoint</li>
+<li>Découvrir le <b>modulo %</b> en python</li>
+<li>Savoir retranscrire des concepts abstraits en <b>ensemble de fonctions</b></li>
+<li>Utiliser les <b>suites numériques</b> pour un ordinateur intelligent</li>
+
+<li><b>Rigueur</b> dans la syntaxe en programmation</li>
+<li>Culture informatique<br/><br/></li>

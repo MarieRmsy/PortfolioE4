@@ -7,11 +7,7 @@
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
-									">Virtuoz  <bobr style="
-									font-weight: 10;
-									font-size: 0.8em;
-									color: #777;
-									">.js</nobr>
+									">Virtuoz  <nobr class="typeProj">.js</nobr>
 									</h6>
 								</header>
 							</section>
@@ -57,7 +53,7 @@
 													<li>Objet : Projet personnel</li>
 													<li>Type : Coder pour apprendre et s'amuser</li>
 													<li>Période : 2019-2020</li>
-													<li>Logiciel : Visual Studio Code, console Node.js</li>
+													<li>Logiciels : Visual Studio Code, console Node.js</li>
 												</ul>
 											</dd>
 

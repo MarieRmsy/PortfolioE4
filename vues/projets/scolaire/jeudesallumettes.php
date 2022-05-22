@@ -7,11 +7,7 @@
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
-									">Jeu des allumettes  <bobr style="
-									font-weight: 10;
-									font-size: 0.8em;
-									color: #777;
-									">.Python</nobr>
+									">Jeu des allumettes  <nobr class="typeProj">.Python</nobr>
 									</h6>
 									
 								</header>	
@@ -56,7 +52,7 @@
 								<li>Type : Travail de groupe (3 élèves)</li>
 								<li>Période : Novembre 2019</li>
 								<li>Délais : 2 semaines</li>
-								<li>Logiciel : IDLE Python(3.7)</li>
+								<li>Logiciels : IDLE Python(3.7)</li>
 							</ul></dd>
 						</dl>
 							</div>

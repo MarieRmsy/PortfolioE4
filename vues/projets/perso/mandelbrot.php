@@ -8,11 +8,7 @@
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
-									">Mandelbrot  <bobr style="
-									font-weight: 10;
-									font-size: 0.8em;
-									color: #777;
-									">.Pascal</nobr>
+									">Mandelbrot  <nobr class="typeProj">.Pascal</nobr>
 									</h6>
 								</header>
 							</section>
