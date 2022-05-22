@@ -24,13 +24,9 @@
 													
 											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
 												  ◆ Présentation</dt>
-												<dd>Ce projet est entièrement personnel. Utilsant le logiciel de messagerie instantanée Discord, j'ai voulue créer des Bots 
-													permettant d'effectuer quelques tâches ou jeux sur ce logiciel. La conception de Bot Discord est ouverte à tous, et possible en différents langages informatiques.
-													J'ai donc décidé d'apprendre les bases du javascript par passion pour la programmation, et de manière totalement autonome. Pour cela je me suis équipé des bons outils 
-													tels que les documentations en lignes, par exemple grâce aux sites 
-													<a target = "_blank" href="https://developer.mozilla.org/fr/">MDN</a> 
-													et 
-													<a target="_blank" href="https://discord.js.org/#/docs/main/stable/general/welcome"> Discord.js</a>.
+												<dd>Le projet Snake était une occasion de pratiquer et d'apprendre de façon ludique.
+													En partant d'un jeu connu de tous, j'ai imaginé une version moderne et fun dont le comportement évolue selon le succès ou l'échec du joueur.
+													La conception des visuels était également amusante, cependant ceux-ci participent à un univers graphique un peu trop épileptique au goût de certains.
 													<br /><br /><br /><br /> 
 												</dd>
 
@@ -39,10 +35,9 @@
 												  ••• Compétences travaillées</dt>
 											<dd>
 												<ul>
-													<li>Étudier une situation pour en comprendre le <b>fonctionnement</b></li>
-													<li>Retranscrire des concepts abstraits en différents <b>évènements</b> à coder </li>
-													<li>Tenir un <b>cahier des charges</b>  en équipe</li>
-													<li>Créer une interface graphique avec <b>TKinter</b> <br /></li>
+													<li>Étudier un jeu célèbre pour en comprendre le <b>fonctionnement</b></li>
+													<li>Réinventer les <b>règles</b> avec des évènements différents</li>
+													<li>Créer une interface graphique avec <b>SFML</b> <br /></li>
 												</ul>
 											</dd>
 
@@ -51,7 +46,7 @@
 											<dd>
 												<ul class="alt">
 													<li>Objet : Projet scolaire</li>
-													<li>Type : Travail de groupe (2 élèves)</li>
+													<li>Type : Sous linux avec interface graphique SFML</li>
 													<li>Période : Septembre 2021</li>
 													<li>Logiciels : Visual Studio Code, VMWare Workstation Pro, Github Desktop </li>
 												</ul>
@@ -127,7 +122,7 @@
 									<div class="col-4 col-12-medium">	
 										<img src="assets/stuff/win.png" class="snakeIMG" style="opacity: 100%"/>
 									</div>
-									<div class="col-4 col-12-medium">	
+									<div class="col-4 col-12-medium">
 										<img src="assets/stuff/gameover.png" class="snakeIMG" style="opacity: 100%"/>
 									</div>
 									<div class="col-4 col-12-medium">	

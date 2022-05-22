@@ -48,7 +48,7 @@
 										<li>Type : Travail de groupe (3 élèves)</li>
 										<li>Période : Mars-Mai 2020</li>
 										<li>Délais : 2 mois (prévu avant le confinement)</li>
-										<li>Logiciels : IDLE Python(3.7)</li>
+										<li>Logiciel : IDLE Python(3.7)</li>
 									</ul>
 								</dd>
 

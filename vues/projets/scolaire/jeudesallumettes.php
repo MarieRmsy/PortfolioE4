@@ -52,7 +52,7 @@
 								<li>Type : Travail de groupe (3 élèves)</li>
 								<li>Période : Novembre 2019</li>
 								<li>Délais : 2 semaines</li>
-								<li>Logiciels : IDLE Python(3.7)</li>
+								<li>Logiciel : IDLE Python(3.7)</li>
 							</ul></dd>
 						</dl>
 							</div>

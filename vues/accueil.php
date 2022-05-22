@@ -86,7 +86,8 @@
 								<!-- ETUDES -->
 								<section id = Etudes>
 									<header class="major">
-										<h2>&lt;Études&gt;</h2>
+										<h2
+										>&lt;Études&gt;</h2>
 									</header>
 
 									<div class="row">

@@ -53,7 +53,7 @@
 													<li>Objet : Projet personnel</li>
 													<li>Type : Coder pour apprendre et s'amuser</li>
 													<li>Période : 2019-2020</li>
-													<li>Logiciels : Visual Studio Code, console Node.js</li>
+													<li>Logiciel : Visual Studio Code, console Node.js</li>
 												</ul>
 											</dd>
 
