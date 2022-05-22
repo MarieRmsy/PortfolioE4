@@ -28,3 +28,5 @@ titres PROJET et E4 arrive doucement
 logiciel utilisé dans les projets: mettre icone du logiciel
 
 CSS PAUSE GIF pour snake
+
+VEILLE : LINKS WORKABLE

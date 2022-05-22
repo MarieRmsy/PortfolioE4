@@ -3,7 +3,7 @@
                 <div id="main">
 						<div class="inner">
 							<section>
-								<img src="assets/stuff/discordlogo.png" style="float: right; margin: 0 5em;" width="12%" height="12%" />	
+								<img src="assets/stuff/chamo/chamo.png" style="float: right; margin: 0 5em;" width="12%" height="12%" />	
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
@@ -24,13 +24,11 @@
 													
 											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
 												  ◆ Présentation</dt>
-												<dd>Ce projet est entièrement personnel. Utilsant le logiciel de messagerie instantanée Discord, j'ai voulue créer des Bots 
-													permettant d'effectuer quelques tâches ou jeux sur ce logiciel. La conception de Bot Discord est ouverte à tous, et possible en différents langages informatiques.
-													J'ai donc décidé d'apprendre les bases du javascript par passion pour la programmation, et de manière totalement autonome. Pour cela je me suis équipé des bons outils 
-													tels que les documentations en lignes, par exemple grâce aux sites 
-													<a target = "_blank" href="https://developer.mozilla.org/fr/">MDN</a> 
-													et 
-													<a target="_blank" href="https://discord.js.org/#/docs/main/stable/general/welcome"> Discord.js</a>.
+												<dd>Voici le projet principal réalisé dans mon entreprise au cours de ces deux dernières années.
+													ChaMo, pour Chantier Mobile : Une application web de gestion des chantiers et bien plus.
+													À mon arrivée, le projet avait démarré depuis 1an. 
+													<a target="_blank" href="https://angularjs.org/"> Angular.js</a>
+													et <a target = "_blank" href="https://material.angular.io/">Angular Material</a> .
 													<br /><br /><br /><br /> 
 												</dd>
 
@@ -52,12 +50,7 @@
 								</div>
 							
 								<div class="col-6 col-12-medium">
-									<video controls
-									style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
-									autostart="false" 
-									width="620">
-										<source src="../../assets/stuff/homu.mp4"/>
-									</video>
+								<img src="assets/stuff/chamo/chamo1.png" class="virtuozIMG" style="border: none;" />	
 									
 								</div>
 							</div>

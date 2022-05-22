@@ -134,7 +134,7 @@
 					$nav = 3;
 					break;
 
-					// default: include("sections/accueil.php");
+					// default: include("nav/accueil.php");
 					break;
 					}
 
@@ -193,14 +193,14 @@
 									{
 
 									case 2 :
-									include("sections/navProjets.php");
+									include("nav/navProjets.php");
 									break;
 
 									case 3 :
-									include("sections/navE4.php");
+									include("nav/navE4.php");
 									break;
 
-									default: include("sections/navMain.php");
+									default: include("nav/navMain.php");
 									break;
 									}
 
@@ -208,18 +208,18 @@
 									// {
 
 									// case 'projets' :
-									// include("sections/navProjet1.php");
+									// include("nav/navProjet1.php");
 									// break;
 
 									// case 'e4' :
-									// include("sections/navE4.php");
+									// include("nav/navE4.php");
 									// break;
 									
 									// case 'veille' :
-									// include("sections/navE4.php");
+									// include("nav/navE4.php");
 									// break;
 
-									// default: include("sections/navMain.php");
+									// default: include("nav/navMain.php");
 									// break;
 									// }
 

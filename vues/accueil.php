@@ -241,49 +241,28 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="index.php?action=projets&projet=mandelbrot" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
-											<p>Mandelbrot</p>
+											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/chamo.png" alt="" /></a>
+											<p>Application ChaMo</p>
 											<ul class="actions">
-											<!-- index.php?action=veille -->
-												<li><a href="index.php?action=projets&projet=mandelbrot" class="button primary">Pascal</a></li>
+												<li><a href="index.php?action=projets&projet=chamo" class="button primary">Angular JS, Typescript</a></li>
 											</ul>
 										</article>
+										
 										<article>
-											<a href="index.php?action=projets&projet=discord" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+											<a href="index.php?action=projets&projet=discord" class="image"><img src="assets/images/bot.png" alt="" /></a>
 											<p>Bots Discord</p>
 											<ul class="actions">
 												<li><a href="index.php?action=projets&projet=discord" class="button primary">Javascript, discord.js</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/portf.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/snake.png" alt="" /></a>
 											<p>Snake remake</p>
 											<ul class="actions">
-												<li><a href="index.php?action=projets&projet=snake" class="button primary">C</a></li>
+												<li><a href="index.php?action=projets&projet=snake" class="button primary">C, SFML</a></li>
 											</ul>
 										</article>
-										<article>
-											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/chamo.png" alt="" /></a>
-											<p>Développement de l'application ChaMo</p>
-											<ul class="actions">
-												<li><a href="index.php?action=projets&projet=chamo" class="button primary">Angular</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/geolab2.png" alt="" /></a>
-											<p>Création du site de la filiale GéoLab</p>
-											<ul class="actions">
-												<li><a href="index.php?action=projets&projet=chamo" class="button primary">HTML/CSS</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/desneux.png" alt="" /></a>
-											<p>Mise à jour du site de la filiale Desneux</p>
-											
-											<ul class="actions">
-												<li><a href="index.php?action=projets&projet=chamo" class="button primary">HTML/CSS</a></li>
-											</ul>
-										</article>
+										
 									</div>
 									<div class="center">
 										<ul class="actions">

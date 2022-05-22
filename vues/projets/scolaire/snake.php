@@ -35,6 +35,7 @@
 												  ••• Compétences travaillées</dt>
 											<dd>
 												<ul>
+													<li>Capacité à <b>assimiler les codes</b> d'un nouveau langage informatique </li>
 													<li>Étudier un jeu célèbre pour en comprendre le <b>fonctionnement</b></li>
 													<li>Réinventer les <b>règles</b> avec des évènements différents</li>
 													<li>Créer une interface graphique avec <b>SFML</b> <br /></li>
@@ -48,7 +49,7 @@
 													<li>Objet : Projet scolaire</li>
 													<li>Type : Sous linux avec interface graphique SFML</li>
 													<li>Période : Septembre 2021</li>
-													<li>Outis : Visual Studio Code, VMWare Workstation Pro, Github Desktop </li>
+													<li>Outis : Visual Studio Code, VMWare Workstation Pro (VM Linux), Github Desktop </li>
 												</ul>
 											</dd>
 

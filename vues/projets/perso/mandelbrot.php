@@ -4,7 +4,7 @@
 					<div id="main">
 						<div class="inner">
 							<section>
-								<img src="../../assets/stuff/mandelbrot1978.png" style="float: right; margin: -1em 4em;" width="16%" height="16%" />	
+								<img src="assets/stuff/mandelbrot1978.png" style="float: right; margin: -1em 4em;" width="16%" height="16%" />	
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
@@ -58,7 +58,7 @@
 					</div>
 				
 					<div class="col-6 col-12-medium">
-							<img src="../../assets/stuff/mandelbrotgif.gif" style="position: relative; border-radius: 30px; border: 4px solid #168fac;" width="100%" eight="100%"/>
+							<img src="assets/stuff/mandelbrotgif.gif" style="position: relative; border-radius: 30px; border: 4px solid #168fac;" width="100%" eight="100%"/>
 							<dd>Gifs réalisés grâce à notre programme (Captures d'écrans)</dd>
 					</div>
 				</div>
@@ -74,7 +74,7 @@
 						autostart="false" 
 						eight="80%" 
 						width="80%">
-							<source src="../../assets/stuff/evolution MANDELBROT.mp4"/>
+							<source src="assets/stuff/evolution MANDELBROT.mp4"/>
 						</video>
 					</div>
 					<div class="col-5 col-12-medium" style="margin: auto;">
@@ -96,17 +96,17 @@
 				
 				<div class="box alt">
 					<div class="row gtr-50 gtr-uniform">
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M1.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M2.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M3.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M1.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M2.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M3.PNG" alt="" /></div></div>
 						<!-- Break -->
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M4.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M5.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M6.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M4.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M5.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M6.PNG" alt="" /></div></div>
 						<!-- Break -->
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M9.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M11.PNG" alt="" /></div></div>
-						<div class="col-4"><div class="image fit"><img src="../../assets/stuff/EVOLUTION/M15.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M9.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M11.PNG" alt="" /></div></div>
+						<div class="col-4"><div class="image fit"><img src="assets/stuff/EVOLUTION/M15.PNG" alt="" /></div></div>
 					</div>
 				</div>
 

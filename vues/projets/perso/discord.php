@@ -68,7 +68,7 @@
 									style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false" 
 									width="620">
-										<source src="../../assets/stuff/homu.mp4"/>
+										<source src="assets/stuff/homu.mp4"/>
 									</video>
 									
 								</div>
@@ -92,7 +92,7 @@
 									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false"
 									width="600">
-										<source src="../../assets/stuff/ritaroles.mp4"/>
+										<source src="assets/stuff/ritaroles.mp4"/>
 									</video>
 
 								</div>
@@ -132,7 +132,7 @@
 									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false" 
 									width="600">
-										<source src="../../assets/stuff/ritalogs.mp4"/>
+										<source src="assets/stuff/ritalogs.mp4"/>
 									</video>
 
 								</div>
@@ -144,7 +144,7 @@
 									autostart="false" 
 									
 									width="600">
-										<source src="../../assets/stuff/ritahelp.mp4"/>
+										<source src="assets/stuff/ritahelp.mp4"/>
 									</video>
 
 								</div>

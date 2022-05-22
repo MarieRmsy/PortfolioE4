@@ -24,28 +24,9 @@
 									<br/><br/>
 									<div class="posts">
 										<article>
-											<a href="soon.php" class="image"><img src="assets/images/chamo.png" alt="" /></a>
-											<h3>Développement de l'application ChaMo</h3>
-											<p>Angular</p>
-											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="soon.php" class="image"><img src="assets/images/geolab2.png" alt="" /></a>
-											<h3>Création du site de la filiale GéoLab</h3>
-											<p>HTML/CSS</p>
-											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="soon.php" class="image"><img src="assets/images/desneux.png" alt="" /></a>
-											<h3>Mise à jour du site de la filiale Desneux</h3>
-											<p>HTML/CSS</p>
-											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
-											</ul>
+												<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/chamo.png" alt="" /></a>
+												<h2>Application Chamo</h2>
+												<p>Angular JS, Typescript</p>
 										</article>
 									</div>
 									
@@ -60,13 +41,8 @@
 									<br/><br/>
 									<div class="posts">
 										<article>
-											<a href="projets/perso/mandelbrot.php" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
-											<h3>Mandelbrot</h3>
-											<p>Pascal</p>
-										</article>
-										<article>
-											<a href="projets/perso/discord.php" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-											<h3>Bots Discord</h3>
+											<a href="index.php?action=projets&projet=discord" class="image"><img src="assets/images/bot.png" alt="" /></a>
+											<h2>Bots Discord</h2>
 											<p>Javascript, discord.js</p>
 										</article>
 									</div>
@@ -81,6 +57,14 @@
 								
 									<br/><br/>
 									<div class="posts">
+										
+									<article>
+											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/snake.png" alt="" /></a>
+											<p>Snake remake</p>
+											<ul class="actions">
+												<li><a href="index.php?action=projets&projet=snake" class="button primary">C, SFML</a></li>
+											</ul>
+										</article>
 										<article>
 											<a href="projets/scolaire/lightsout.php" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
 											<h3>Lightsout</h3>
