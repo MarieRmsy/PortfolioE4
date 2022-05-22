@@ -8,11 +8,11 @@
 								<header id="header">
 									<a href="index.php" class="logo"><strong>Marie Ramssamy</strong></a>
 								</header>
-								<div style="
+								<!-- <div style="
 								float:right;
 								margin: -0.94em -0.2em 0 0 ;  
 								font-size: 3em; 
-								color:#20a7d4">•</div>
+								color:#20a7d4">•</div> -->
 								<!-- <div class="trait" style="border-right: 40em solid #168fac"></div> -->
 								<br/>
 								<img id="qui" src="assets/stuff/marie3.png" style="float: right; margin: 0 -0.4em; height: 15em;"/>
@@ -241,51 +241,46 @@
 									<div class="posts">
 										<article>
 											<a href="projets/perso/mandelbrot.php" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
-											<h3>Mandelbrot</h3>
-											<p>Pascal</p>
+											<p>Mandelbrot</p>
 											<ul class="actions">
 											<!-- index.php?action=veille -->
-												<li><a href="index.php?action=mandelbrot" class="button">More</a></li>
+												<li><a href="index.php?action=mandelbrot" class="button primary">Pascal</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="projets/perso/discord.php" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-											<h3>Bots Discord</h3>
-											<p>Javascript, discord.js</p>
+											<p>Bots Discord</p>
 											<ul class="actions">
-												<li><a href="projets/perso/discord.php" class="button">More</a></li>
+												<li><a href="projets/perso/discord.php" class="button primary">Javascript, discord.js</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="assets/images/portf.png" alt="" /></a>
-											<h3>Ce Portfolio</h3>
-											<p>Html, CSS, JS</p>
+											<p>Snake remake</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
+												<li><a href="soon.php" class="button primary">C</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="soon.php" class="image"><img src="assets/images/chamo.png" alt="" /></a>
-											<h3>Développement de l'application ChaMo</h3>
-											<p>Angular</p>
+											<p>Développement de l'application ChaMo</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
+												<li><a href="soon.php" class="button primary">Angular</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="soon.php" class="image"><img src="assets/images/geolab2.png" alt="" /></a>
-											<h3>Création du site de la filiale GéoLab</h3>
-											<p>HTML/CSS</p>
+											<p>Création du site de la filiale GéoLab</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
+												<li><a href="soon.php" class="button primary">HTML/CSS</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="soon.php" class="image"><img src="assets/images/desneux.png" alt="" /></a>
-											<h3>Mise à jour du site de la filiale Desneux</h3>
-											<p>HTML/CSS</p>
+											<p>Mise à jour du site de la filiale Desneux</p>
+											
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Soon</a></li>
+												<li><a href="soon.php" class="button primary">HTML/CSS</a></li>
 											</ul>
 										</article>
 									</div>
