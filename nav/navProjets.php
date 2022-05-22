@@ -1,6 +1,8 @@
 						<!-- Menu -->
                         <nav id="menu" style="margin-top: -20%">
+							<a href="index.php?action=projets&projet=menuProjet" class="icon fa-arrow-left"> Projets</a>
 							<ul>
+								
                                 <li>
 									<a class="opener" href="#prof">Professionnels</a>
 									<ul>

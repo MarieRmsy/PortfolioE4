@@ -3,7 +3,7 @@
 					<div id="main">
 						<div class="inner">
 							<section>
-								<img src="../../assets/stuff/allumettes.png" style="float: right; margin: 0 5em 0 5em;" width="7%" height="7%" />	
+								<img src="assets/stuff/allumettes.png" style="float: right; margin: 0 5em 0 5em;" width="7%" height="7%" />	
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
@@ -21,7 +21,6 @@
 								
 							<div class="col-14 col-12-small">
 								
-						
 								<dl>
 									
 								<dt style="border-radius: 10px; border: 3px solid #168fac;" >
@@ -33,10 +32,9 @@
 									Finalement, ce jeu n'a plus de secrets pour nous !<br /><br /><br /> 
 								</dd>
 		
-		
 							<dt style="border-radius: 10px; border: 3px solid #168fac;" >
 								   ••• Compétences travaillées</dt>
-							<dd><ul >
+							<dd><ul>
 								<li>Étudier une situation et en déduire le fonctionnement </li>
 								<li>Créer une présentation <b>explicative</b> sur PowerPoint</li>
 								<li>Découvrir le <b>modulo %</b> en python</li>
@@ -66,7 +64,7 @@
 						autostart="false" 
 						eight="120" 
 						width="650">
-							<source src="../../assets/stuff/jeudesallumettes.mp4"/>
+							<source src="assets/stuff/jeudesallumettes.mp4"/>
 						</video>
 						
 					</div>
@@ -104,7 +102,7 @@
 
 				
 				<div class="image">
-					<embed src="../../assets/stuff/ISN Jeu des Allumettes.pdf" style="float: right; margin: 0em;" width=800 height=430 type='application/pdf'/>
+					<embed src="assets/stuff/ISN Jeu des Allumettes.pdf" style="float: right; margin: 0em;" width=800 height=430 type='application/pdf'/>
 				
 				</div>
 				</div>

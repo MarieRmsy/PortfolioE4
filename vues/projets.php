@@ -60,24 +60,22 @@
 										
 									<article>
 											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/snake.png" alt="" /></a>
-											<p>Snake remake</p>
-											<ul class="actions">
-												<li><a href="index.php?action=projets&projet=snake" class="button primary">C, SFML</a></li>
-											</ul>
+											<h2>Snake remake</h2>
+											<p>C, SFML</p>
 										</article>
 										<article>
-											<a href="projets/scolaire/lightsout.php" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-											<h3>Lightsout</h3>
+											<a href="index.php?action=projets&projet=lightsout" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+											<h2>Lightsout</h2>
 											<p>Python</p>
 										</article>
 										<article>
-											<a href="projets/scolaire/jeudesallumettes.php" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-											<h3>Jeu des allumettes</h3>
+											<a href="index.php?action=projets&projet=allumettes" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+											<h2>Jeu des allumettes</h2>
 											<p>Python</p>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-											<h3>Morpion</h3>
+											<h2>Morpion</h2>
 											<p>Python</p>
 										</article>
 									</div>

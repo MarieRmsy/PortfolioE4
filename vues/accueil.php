@@ -257,7 +257,7 @@
 										</article>
 										<article>
 											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/snake.png" alt="" /></a>
-											<p>Snake remake</p>
+											<p>Snake revisité</p>
 											<ul class="actions">
 												<li><a href="index.php?action=projets&projet=snake" class="button primary">C, SFML</a></li>
 											</ul>

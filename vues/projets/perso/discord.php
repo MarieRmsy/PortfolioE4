@@ -74,7 +74,6 @@
 								</div>
 							</div>
 
-							<!-- Exemples -->
 							</div>
 								<br/><br/><br/>
 								<header class="major">
