@@ -2095,7 +2095,8 @@ button,
       position: absolute;
       text-indent: 0;
       top: 0;
-      width: inherit; }
+      width: inherit;
+     }
   #sidebar.inactive {
     margin-left: -26em; }
   @media screen and (max-width: 1680px) {
@@ -2115,11 +2116,14 @@ button,
         left: 24em;
         line-height: 6.25em;
         text-indent: 5em;
-        width: 5em; }
-        #sidebar .toggle:before {
-          font-size: 1.5rem; }
+        width: 5em;
+        margin-left: 4em;  
+      }
+        /* #sidebar .toggle:before {
+          font-size: 1.5rem !important;
+      } */
       #sidebar.inactive {
-        margin-left: -24em; } }
+        margin-left: -27.8em; } }
   @media screen and (max-width: 1280px) {
     #sidebar {
       box-shadow: 0 0 5em 0 rgba(0, 0, 0, 0.175);

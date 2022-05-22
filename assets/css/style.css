@@ -4,13 +4,19 @@
 }
 
 .titrePage {
-  margin-top: 0.4em;
   color: white;
   font-size: 3em !important;
 }
 
+.titrePort {
+  font-size: 1.7em;
+  font-weight: bold;
+  color: #ebebeb;
+  margin-bottom: 0.4em;
+}
 
 .toContact {
+  margin-bottom: 0;
   position: relative;
   color: white; 
   font-size: 2em !important;
@@ -252,7 +258,6 @@ label:hover {
 } */
 
 .we-install a {
-  color: #df4a48;
   border-bottom: 1px solid;
   text-decoration: none;
   position: relative;

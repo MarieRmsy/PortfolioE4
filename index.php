@@ -148,6 +148,7 @@
 							<!-- Search -->
 								<section id="search" class="alt">
 
+								<p class="titrePort">Portfolio()</p>
 								<?php
 
 								
@@ -156,22 +157,24 @@
 
 									case 2 :
 									echo("
-									<h2 class='titrePage'>//Projet</h2>
+									<h2 class='titrePage'>{ Projets }</h2>
 									");
 									break;
 
 									case 3 :
 									echo("
-									<h2 class='titrePage'>&lt;Épreuve E4&gt;</h2>
+									<h2 class='titrePage'>{ Épreuve E4 }</h2>
 									");
 									break;
 
 									default: echo("
-										<h2 class='toContact'><span>//</span>Me contacter</h2>
-										<ul class='contact'>
-											<a href='mailto:ramssamy.marie@gmail.com'><a href='mailto:ramssamy.marie@gmail.com'><li class='icon solid fa-envelope'>ramssamy.marie@gmail.com</li></a></a>
-										</ul>
+									<h2 class='titrePage'>{ Welcome ! }</h2>
+										
 										");
+										// <h2 class='toContact'>//Me contacter</h2>
+										// <ul class='contact'>
+										// 	<a href='mailto:ramssamy.marie@gmail.com'><a href='mailto:ramssamy.marie@gmail.com'><li class='icon solid fa-envelope'>ramssamy.marie@gmail.com</li></a></a>
+										// </ul>
 									break;
 									}
 
