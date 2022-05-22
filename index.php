@@ -88,6 +88,18 @@
 						case 'refontes':
 						include("vues/projets/pro/refontes.php");
 						break;
+
+						case 'm2l':
+						include("vues/projets/scolaire/m2l.php");
+						break;
+
+						case 'bwa':
+						include("vues/projets/autre/bwa.php");
+						break;
+
+						case 'trad':
+						include("vues/projets/autre/trad.php");
+						break;
 					}
 					break;
 
