@@ -3,10 +3,10 @@
 <html>
 	<head>
 		<link href='http://fonts.googleapis.com/css?family=ProductSans' rel='stylesheet' type='text/css'>
-		<title>Marie ramssamy - Mon Portfolio</title>
+		<title>Portfolio - Marie Ramssamy</title>
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css"/>
+		<link rel="stylesheet" href="assets/css/main.css" type="text/css"/>
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
 		<link rel="shortcut icon" type="image/png" href="assets/stuff/MR.png"/>
 	</head>
@@ -16,6 +16,8 @@
 			<div id="wrapper">
 
 				<?php
+
+					$nav = 1;
 
 					if(!isset($_REQUEST['action']))
 					{
@@ -31,20 +33,62 @@
 					}else{
 						$projet = $_REQUEST['projet'];
 					}
-
-					$nav = 1;
+					
+					if($nav == 2)
+					{
+						$action = 'none';
+					}
 					
 					switch($action)
 					{
 
 					case 'main':
-						$nav = 1;
+					$nav = 1;
 					include("vues/accueil.php");
 					break;
 
 					case 'projets' :
-					include("vues/projets.php");
-					$nav = 2;	
+					
+					$nav = 2;
+
+					switch($projet)
+					{
+						case 'menuProjet':
+						include("vues/projets.php");
+						break;
+
+						case 'lightsout':
+						include("vues/projets/scolaire/lightsout.php");
+						break;
+	
+						case 'mandelbrot':
+						include("vues/projets/perso/mandelbrot.php");
+						break;
+
+						case 'allumettes':
+						include("vues/projets/scolaire/jeudesallumettes.php");
+						break;
+						
+						case 'discord':
+						include("vues/projets/perso/discord.php");
+						break;
+
+						case 'snake':
+						include("vues/projets/scolaire/snake.php");
+						break;
+
+						case 'chamo':
+						include("vues/projets/pro/chamo.php");
+						break;
+
+						case 'logoBir':
+						include("vues/projets/pro/logoBir.php");
+						break;
+
+						case 'refontes':
+						include("vues/projets/pro/refontes.php");
+						break;
+					}
 					break;
 
 					case 'e4' :
@@ -62,28 +106,10 @@
 					$nav = 3;
 					break;
 
-
-					
-					default: include("sections/accueil.php");
+					// default: include("sections/accueil.php");
 					break;
 					}
 
-					switch($projet)
-					{
-						
-						case 'lightsout':
-							include("vues/projets/scolaire/lightsout.php");
-							break;
-	
-						case 'mandelbrot':
-						include("vues/projets/perso/mandelbrot.php");
-						break;
-
-						case 'allumettes':
-							include("vues/projets/scolaire/jeudesallumettes.php");
-							break;
-
-					}
 				?>
                     
 				<!-- Sidebar -->
@@ -93,12 +119,35 @@
 						<div class="inner">
 							<!-- Search -->
 								<section id="search" class="alt">
-									<form method="post" action="#">
-										<h2><font color = #ffffff >Me contacter</font:></h2>
-											<ul class="contact">
-												<a href="mailto:ramssamy.marie@gmail.com"><a href="mailto:ramssamy.marie@gmail.com"><li class="icon solid fa-envelope">ramssamy.marie@gmail.com</li></a></a>
-											</ul>
-									</form>
+
+								<?php
+
+								
+									switch($nav)
+									{
+
+									case 2 :
+									echo("
+									<h2 class='titrePage'>Projets</h2>
+									");
+									break;
+
+									case 3 :
+									echo("
+									<h2 class='titrePage'>Épreuve E4</h2>
+									");
+									break;
+
+									default: echo("
+										<h2 style='color: white; font-size: 2em;'>Me contacter</h2>
+										<ul class='contact'>
+											<a href='mailto:ramssamy.marie@gmail.com'><a href='mailto:ramssamy.marie@gmail.com'><li class='icon solid fa-envelope'>ramssamy.marie@gmail.com</li></a></a>
+										</ul>
+										");
+									break;
+									}
+
+									?>
 								</section>
 								<!-- Triangle -->
 								<div id="triangle-code" style="display:inline-block; 
@@ -106,6 +155,7 @@
 								width: 0;
 								border-top: 2em solid #168fac;
 								border-right: 3em solid transparent;
+								border-bottom: none;
 								margin: 0em 0em 0em 20.7em;
 								">
 								</div>

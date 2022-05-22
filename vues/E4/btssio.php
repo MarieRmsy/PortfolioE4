@@ -25,7 +25,7 @@
 										Le programme a évolué en fonction de la place et du rôle des TIC (Technologies de l'Information et de la Communication) et propose deux spécialités bien distinctes : Le BTS SIO Option SISR et le BTS SIO Option SLAM.
 									</h4>
 									<br/><br/>
-									<p> <b>&#10095; Option : SLAM </b>  <span style="font-size: 20px;"> Solution d'infrastructure Système Réseau </span> <br/> 
+									<p> <b>&#10095; Option : SLAM </b>  <span style="font-size: 20px;"> Solution Logiciel et Application Métier </span> <br/> 
 										L’option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d’un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
 									</p>
 									<font color = #168fac> 
@@ -42,7 +42,7 @@
 											<li>Technicien d’études informatiques</li>
 										</ul>
 									</font>
-									<br/> <br/> 
+									<!-- <br/> <br/> 
 									<p> <b>&#10095; Option : SISR </b> <span style="font-size: 20px;"> Solution Logiciel et Application Métier</span> <br/>  
 										L’option Solutions d’infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité).
 									</p>
@@ -56,7 +56,7 @@
 											<li>Technicien de production,</li>
 											<li>Technicien micro et réseaux.</li>
 										</ul>
-									</font>
+									</font> -->
 									
 								</header>
                                 </section>

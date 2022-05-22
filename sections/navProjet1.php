@@ -1,4 +1,4 @@
-								<nav id="menu">
+								<nav id="menu" style="margin-top: -20%">
 									<header class="major">
 										<h2><a href="../../index.php">Menu</a></h2>
 									</header>

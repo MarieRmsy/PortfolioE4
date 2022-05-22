@@ -240,53 +240,53 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="projets/perso/mandelbrot.php" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=mandelbrot" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
 											<p>Mandelbrot</p>
 											<ul class="actions">
 											<!-- index.php?action=veille -->
-												<li><a href="index.php?action=mandelbrot" class="button primary">Pascal</a></li>
+												<li><a href="index.php?action=projets&projet=mandelbrot" class="button primary">Pascal</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="projets/perso/discord.php" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+											<a href="index.php?action=projets&projet=discord" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 											<p>Bots Discord</p>
 											<ul class="actions">
-												<li><a href="projets/perso/discord.php" class="button primary">Javascript, discord.js</a></li>
+												<li><a href="index.php?action=projets&projet=discord" class="button primary">Javascript, discord.js</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="assets/images/portf.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=snake" class="image"><img src="assets/images/portf.png" alt="" /></a>
 											<p>Snake remake</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">C</a></li>
+												<li><a href="index.php?action=projets&projet=snake" class="button primary">C</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="soon.php" class="image"><img src="assets/images/chamo.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/chamo.png" alt="" /></a>
 											<p>Développement de l'application ChaMo</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">Angular</a></li>
+												<li><a href="index.php?action=projets&projet=chamo" class="button primary">Angular</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="soon.php" class="image"><img src="assets/images/geolab2.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/geolab2.png" alt="" /></a>
 											<p>Création du site de la filiale GéoLab</p>
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">HTML/CSS</a></li>
+												<li><a href="index.php?action=projets&projet=chamo" class="button primary">HTML/CSS</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="soon.php" class="image"><img src="assets/images/desneux.png" alt="" /></a>
+											<a href="index.php?action=projets&projet=chamo" class="image"><img src="assets/images/desneux.png" alt="" /></a>
 											<p>Mise à jour du site de la filiale Desneux</p>
 											
 											<ul class="actions">
-												<li><a href="soon.php" class="button primary">HTML/CSS</a></li>
+												<li><a href="index.php?action=projets&projet=chamo" class="button primary">HTML/CSS</a></li>
 											</ul>
 										</article>
 									</div>
 									<div class="center">
 										<ul class="actions">
-											<a href="index.php?action=projets" class="button">Voir tous les projets</a>
+											<a href="index.php?action=projets&projet=menuProjet" class="button">Voir tous les projets</a>
 										</ul>
 									</div>
 

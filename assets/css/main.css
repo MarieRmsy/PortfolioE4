@@ -40,6 +40,8 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2045,6 +2047,7 @@ button,
         margin-bottom: 0;
         padding-bottom: 0; }
     #sidebar > .inner > .alt {
+      height: 150px !important;
       background-color: #20a7d4;
       border-bottom: 0;
       margin: -2.22222em 0 0 -2.22222em;
@@ -2298,12 +2301,14 @@ button,
   user-select: none;
   color: #353535;
   font-family: "ProductSans", serif;
+  font-size: 1.2em;
   font-weight: bold;
   letter-spacing: 0.015em;
   list-style: none;
   margin-bottom: 0;
   padding: 0;
-  text-transform: uppercase; }
+  /* text-transform: uppercase; //ADD */
+}
   #menu ul a, #menu ul span {
     border-bottom: 0;
     color: inherit;

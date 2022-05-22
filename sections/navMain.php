@@ -1,10 +1,8 @@
 
 
 							<!-- Menu -->
-								<nav id="menu">
-									<header class="major">
-										<h2><a href="#header">Accueil</a></h2>
-									</header>
+								<nav id="menu" style="margin-top: -20%">
+									
 									<ul>
 										<li><h4><a href="#qui"> Qui suis-je ?</a></h4></li>
 										<!-- <li><h4><a href="#Profil"> Personnalité</a></h4></li> -->

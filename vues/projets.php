@@ -5,18 +5,18 @@
 						<div class="inner">
 
 							<!-- Header -->
-								<header id="header">
+								<!-- <header id="header">
 									<a class="logo"><strong>Projets</strong></a>
 								</header>
 								<div style="
 								float:right;
 								margin: -0.94em -0.2em 0 0 ;  
 								font-size: 3em; 
-								color:#20a7d4">•</div>
+								color:#20a7d4">•</div> -->
 								<!-- <div class="trait" style="border-right: 40em solid #168fac"></div> -->
 
 								
-								<div id="prof"></div>
+								<div id="prof" style="margin-top: 3em"></div>
 								<!-- Section -->
 								<section>
 									<h2 > ➤ Professionnels </h2>
