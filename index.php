@@ -82,7 +82,11 @@
 						break;
 
 						case 'logoBir':
-						include("vues/projets/pro/logoBir.php");
+						include("vues/projets/autre/logoBir.php");
+						break;
+
+						case 'tutos':
+						include("vues/projets/autre/tutos.php");
 						break;
 
 						case 'refontes':
@@ -99,6 +103,18 @@
 
 						case 'trad':
 						include("vues/projets/autre/trad.php");
+						break;
+
+						case 'qv':
+						include("vues/projets/perso/quentin.php");
+						break;
+
+						case 'calculatrice':
+						include("vues/projets/scolaire/calculatrice.php");
+						break;
+
+						case 'virtuoz':
+						include("vues/projets/scolaire/virtuoz.php");
 						break;
 					}
 					break;
