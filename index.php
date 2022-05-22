@@ -156,18 +156,18 @@
 
 									case 2 :
 									echo("
-									<h2 class='titrePage'>Projets</h2>
+									<h2 class='titrePage'>//Projet</h2>
 									");
 									break;
 
 									case 3 :
 									echo("
-									<h2 class='titrePage'>Épreuve E4</h2>
+									<h2 class='titrePage'>&lt;Épreuve E4&gt;</h2>
 									");
 									break;
 
 									default: echo("
-										<h2 style='color: white; font-size: 2em;'>Me contacter</h2>
+										<h2 class='toContact'><span>//</span>Me contacter</h2>
 										<ul class='contact'>
 											<a href='mailto:ramssamy.marie@gmail.com'><a href='mailto:ramssamy.marie@gmail.com'><li class='icon solid fa-envelope'>ramssamy.marie@gmail.com</li></a></a>
 										</ul>
@@ -178,14 +178,7 @@
 									?>
 								</section>
 								<!-- Triangle -->
-								<div id="triangle-code" style="display:inline-block; 
-								height:  0em;
-								width: 0;
-								border-top: 2em solid #168fac;
-								border-right: 3em solid transparent;
-								border-bottom: none;
-								margin: 0em 0em 0em 20.7em;
-								">
+								<div id="triangle-code" class="triangleBleu">
 								</div>
 
                                 <!-- NAV -->

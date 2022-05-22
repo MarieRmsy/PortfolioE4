@@ -4,11 +4,11 @@
 								<nav id="menu" style="margin-top: -20%">
 									
 									<ul>
-										<li><h4><a href="#qui"> Qui suis-je ?</a></h4></li>
+										<li class="we-install"><h4><a href="#qui">Qui suis-je ?</a></h4></li>
 										<!-- <li><h4><a href="#Profil"> Personnalité</a></h4></li> -->
-										<li><h4><a href="#Etudes">Études</a></h4></li>
-										<li><h4><a href="#experience">Expérience</a></h4></li>
-										<li><h4><a href="#Projets">Projets</a></h4></li>
+										<li class="we-install"><h4><a href="#Etudes">Études</a></h4></li>
+										<li class="we-install"><h4><a href="#experience">Expérience</a></h4></li>
+										<li class="we-install"><h4><a href="#Projets">Projets</a></h4></li>
 									</ul>
 
 									<br/>

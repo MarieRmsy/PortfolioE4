@@ -10,8 +10,43 @@
 }
 
 
-/* TIME LINE */
+.toContact {
+  position: relative;
+  color: white; 
+  font-size: 2em !important;
+}
 
+/* .toContact:hover span{
+  position: absolute;
+  animation-name: moveright;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+} */
+@media screen and (min-width: 1680px) {
+.triangleBleu {
+  display: inline-block;
+  height: 0em;
+  width: 0;
+  border-top: 2em solid #168fac;
+  border-right: 3em solid transparent;
+  border-bottom: none !important;
+  margin: 0em 0em 0em 20.7em !important;
+}
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1680px)  {
+  .triangleBleu {
+    display: inline-block;
+    height: 0em;
+    width: 0;
+    border-top: 2.2em solid #168fac;
+    border-right: 3.5em solid transparent;
+    border-bottom: none !important;
+    margin: 0em 0em 0em 22.3em !important;
+  }
+  }
+/* TIME LINE */
 
 #timeline {
   list-style: none;
@@ -178,3 +213,67 @@ label:hover {
 /* P SMALLER */
 
 
+
+
+/* TEXT FLOATING ICON */
+
+@keyframes moveleft {
+  0%{
+      transform: translate(0px);
+  }
+  50%{
+      transform: translate(10px);
+  }
+  100%{
+      transform: translate(0px);
+  }
+}
+@keyframes moveright {
+  0%{
+      transform: translate(0px);
+  }
+  50%{
+      transform: translate(-10px);
+  }
+  100%{
+      transform: translate(0px);
+  }
+}
+.theme-details .we-install {
+  font-size: 17px;
+}
+
+/* .we-install::before {
+  content: "<";
+}
+
+.we-install::after {
+  content: ">";
+} */
+
+.we-install a {
+  color: #df4a48;
+  border-bottom: 1px solid;
+  text-decoration: none;
+  position: relative;
+}
+.we-install a:hover {
+  animation-play-state: paused;
+}
+.we-install:hover a:before {
+  content: "<";
+  position: absolute;
+  left: -5%;
+  animation-name: moveright;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+}
+.we-install:hover a:after {
+  content: ">";
+  position: absolute;
+  animation-name: moveleft;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+}
