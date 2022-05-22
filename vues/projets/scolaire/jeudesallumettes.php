@@ -1,17 +1,3 @@
-<!DOCTYPE HTML>
-
-<html>
-	<head>
-		<title>Jeu Des Allumettes- M.R Portoflio</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../../assets/css/main.css" />
-		<link rel="shortcut icon" type="image/png" href="../../assets/stuff/efreicarre.png"/>
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
 
 				<!-- Main -->
 					<div id="main">
@@ -19,7 +5,7 @@
 							<section>
 								<img src="../../assets/stuff/allumettes.png" style="float: right; margin: 0 5em 0 5em;" width="7%" height="7%" />	
 								<header class="major">
-									<h6 id="Projets" style="
+									<h6  style="
 									font-weight: bold;
 									">Jeu des allumettes  <bobr style="
 									font-weight: 10;
@@ -147,84 +133,4 @@
 			</iframe>
 						
 						</div>
-					</div>
-				</section>
-
-				<!-- Sidebar -->
-				<div id="sidebar">
-					<div class="inner">
-
-						<!-- Search -->
-							<section id="search" class="alt">
-								<form method="post" action="#">
-									<h2><font color = #ffffff >Me contacter</h2>
-										<ul class="contact">
-											<a href="mailto:ramssamy.marie@gmail.com"><a href="mailto:ramssamy.marie@gmail.com"><li class="icon solid fa-envelope">ramssamy.marie@gmail.com</li></a></a>
-										</ul>
-								</form>
-							</section>
-							<!-- Triangle -->
-						<div id="triangle-code" style="display:inline-block; 
-						height:  0em;
-						width: 0;
-						border-top: 2em solid #168fac;
-						border-right: 3em solid transparent;
-						margin: 0em 0em 0em 20.7em;
-						">
-						</div>
-
-						<!-- Menu -->
-							<nav id="menu">
-								<header class="major">
-									<h2><a href="index.php">Retour</a></h2>
-								</header>
-								
-							</nav>
-						
-						<!-- Section -->
-							<section>
-								<header class="major">
-									<h2>Autres Projets</h2>
-								</header>
-								<div class="mini-posts">
-									<article>
-										<a href="../../projets/scolaire/lightsout.php" class="image"><img src="../../../assets/images/pic03.jpg" alt="" /></a>
-										<p>LightsOut</p>
-									</article>
-									<article>
-										<a href="../../projets/perso/discord.php" class="image"><img src="../../../assets/images/pic02.jpg" alt="" /></a>
-										<p>Bots Discord</p>
-									</article>
-									<article>
-										<a href="../../projets/perso/mandelbrot.php" class="image"><img src="../../assets/stuff/EVOLUTION/M15.png" alt="" /></a>
-										<p>Mandelbrot</p>
-									</article>
-								</div>
-								<ul class="actions">
-									<li><a href="../../projets.php" class="button">More</a></li>
-								</ul>
-							</section>
-
-						<!-- Section -->
-								<!-- <section style="margin-top: 26em;">
-							<header class="major">
-								<h2>Et ensuite ?</h2>
-							</header>
-							<p>Si mon profil d'alternante vous intéresse, n'hésitez pas à me contacter par mail.</p>
-						</section>-->
-
-					</div>
-					
-				</div>
-
-		</div>
-
-		<!-- Scripts -->
-			<script src="../../assets/js/jquery.min.js"></script>
-			<script src="../../assets/js/browser.min.js"></script>
-			<script src="../../assets/js/breakpoints.min.js"></script>
-			<script src="../../assets/js/util.js"></script>
-			<script src="../../assets/js/main.js"></script>
-
-	</body>
-</html>
+			</div>

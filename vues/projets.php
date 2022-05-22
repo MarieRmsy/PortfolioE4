@@ -16,10 +16,10 @@
 								<!-- <div class="trait" style="border-right: 40em solid #168fac"></div> -->
 
 								
-								
+								<div id="prof"></div>
 								<!-- Section -->
 								<section>
-									<h2 id="Projets"> ➤ Professionnels </h2>
+									<h2 > ➤ Professionnels </h2>
 								
 									<br/><br/>
 									<div class="posts">
@@ -51,10 +51,11 @@
 									
 								</section>
 
+								<div id="pers"></div>
 								<!-- Section -->
 								<section>
 								
-									<h2 id="Projets"> ➤ Personnels </h2>
+									<h2 > ➤ Personnels </h2>
 								
 									<br/><br/>
 									<div class="posts">
@@ -72,11 +73,11 @@
 									
 								</section>
 
-
+								<div id="scol"></div>
 								<!-- Section -->
 								<section>
 								
-									<h2 id="Projets"> ➤ Scolaires </h2>
+									<h2 > ➤ Scolaires </h2>
 								
 									<br/><br/>
 									<div class="posts">
@@ -99,10 +100,11 @@
 									
 								</section>
 
+								<div id="autre"></div>
 								<!-- Section -->
 								<section>
 								
-									<h2 id="Projets"> ➤ Autre </h2>
+									<h2 > ➤ Autres </h2>
 								
 									<br/><br/>
 									<div class="posts">

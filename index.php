@@ -3,8 +3,8 @@
 <html>
 	<head>
 		<link href='http://fonts.googleapis.com/css?family=ProductSans' rel='stylesheet' type='text/css'>
-		<title>Marie Ramssamy - Mon Portfolio</title>
-		<meta charset="utf-8" />
+		<title>Marie ramssamy - Mon Portfolio</title>
+		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css"/>
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
@@ -24,27 +24,65 @@
 						$action = $_REQUEST['action'];
 					}
 
+
+					if(!isset($_REQUEST['projet']))
+					{
+						$projet = 'none';
+					}else{
+						$projet = $_REQUEST['projet'];
+					}
+
+					$nav = 1;
+					
 					switch($action)
 					{
-						
+
 					case 'main':
+						$nav = 1;
 					include("vues/accueil.php");
 					break;
 
 					case 'projets' :
 					include("vues/projets.php");
+					$nav = 2;	
 					break;
 
 					case 'e4' :
 					include("vues/E4/btssio.php");
+					$nav = 3;
 					break;
 
 					case 'veille' :
 					include("vues/E4/veille.php");
+					$nav = 3;
+					break;
+	
+					case 'entreprise':
+					include("vues/E4/entreprise.php");
+					$nav = 3;
 					break;
 
+
+					
 					default: include("sections/accueil.php");
 					break;
+					}
+
+					switch($projet)
+					{
+						
+						case 'lightsout':
+							include("vues/projets/scolaire/lightsout.php");
+							break;
+	
+						case 'mandelbrot':
+						include("vues/projets/perso/mandelbrot.php");
+						break;
+
+						case 'allumettes':
+							include("vues/projets/scolaire/jeudesallumettes.php");
+							break;
+
 					}
 				?>
                     
@@ -75,24 +113,42 @@
                                 <!-- NAV -->
 
 								<?php
-									switch($action)
+
+								
+									switch($nav)
 									{
 
-									case 'projets' :
-									include("sections/navProjet1.php");
+									case 2 :
+									include("sections/navProjets.php");
 									break;
 
-									case 'e4' :
-									include("sections/navE4.php");
-									break;
-									
-									case 'veille' :
+									case 3 :
 									include("sections/navE4.php");
 									break;
 
 									default: include("sections/navMain.php");
 									break;
 									}
+
+									// switch($action)
+									// {
+
+									// case 'projets' :
+									// include("sections/navProjet1.php");
+									// break;
+
+									// case 'e4' :
+									// include("sections/navE4.php");
+									// break;
+									
+									// case 'veille' :
+									// include("sections/navE4.php");
+									// break;
+
+									// default: include("sections/navMain.php");
+									// break;
+									// }
+
 									?>
 
                         </div>

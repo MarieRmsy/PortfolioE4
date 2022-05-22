@@ -5,7 +5,7 @@
 							<section>
 								<img src="assets/stuff/discordlogo.png" style="float: right; margin: 0 5em;" width="12%" height="12%" />	
 								<header class="major">
-									<h6 id="Projets" style="
+									<h6  style="
 									font-weight: bold;
 									">Bot Discord  <bobr style="
 									font-weight: 10;
@@ -82,7 +82,7 @@
 							</div>
 								<br/><br/><br/>
 								<header class="major">
-									<h2 id="Projets">Les bots, qu'est-ce que c'est ?</h2>
+									<h2 >Les bots, qu'est-ce que c'est ?</h2>
 								</header>
 								<p>Les bots Discord sont utilisés pour modérer des serveurs, envoyer des images, lancer de la musique, ou encore permettre de jouer à des jeux.
 									La seule limite est l'imagination des créateurs et les limites du langage utilisé elles-mêmes. Voici quelques exemple de ce que j'ai pu coder :

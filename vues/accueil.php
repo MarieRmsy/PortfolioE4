@@ -6,7 +6,7 @@
 							<!-- Header -->
 							
 								<header id="header">
-									<a href="index.php" class="logo"><strong>Marie RAMSSAMY</strong></a>
+									<a href="index.php" class="logo"><strong>Marie Ramssamy</strong></a>
 								</header>
 								<div style="
 								float:right;
@@ -42,19 +42,18 @@
 										</header>
 									</div>
 									<div id="Profil"></div>
-
+			
 							<!-- Section -->
-								<!-- <section>
+								<section>
 									<header class="major">
 										<h2 >&lt;Personnalité&gt;</h2>
-									</header> -->
+									</header>
 
 									<div class="features">
 										
 										<article>
 											<span class="icon fa-gem"></span>
 											<div class="content">
-												<br/><br/><br/><br/><br/>
 												<h3>Passionnée</h3>
 												<p>Avant même d'être étudiante, je suis surtout une personne passionnée et curieuse. J'ai constamment envie d'en apprendre plus et de m'améliorer.</p>
 											</div>
@@ -99,13 +98,13 @@
 												<input class='friseradio' id='work5' name='works' type='radio' checked>
 												<div class="friserelative">
 												<label class="friselabel" for='work5'>BAC Scientifique <span class="descTime">Option SVT</span></label>
-												<span class='frisedate'>Juin 2020</span>
+												<span class='frisedate'> 2020</span>
 												<span class='frisecircle'></span>
 												</div>
 												<div class='frisecontent'>
 													<p>
-														+ 2ans d'option Informatique et Science du Numérique (ISN)</br>
-														<i>Lycée Emmanuel Mounier (Châtenay-Malabry 92290)</i>
+													// 2ans d'option ISN [Informatique et Science du Numérique]</br>
+													<i>Lycée Emmanuel Mounier - Châtenay-Malabry 92290</i>
 													</p>
 												</div>
 											</li>
@@ -113,15 +112,16 @@
 										<li class='work'>
 											<input class='friseradio' id='work4' name='works' type='radio'>
 											<div class="friserelative">
-											<label class="friselabel" for='work4'>BTS SIO <span class="descTime">2 années d'alternance</span></label>
-											<span class='frisedate' > Sept 2020</span>
+											<label class="friselabel" for='work4'>BTS SIO <span class="descTime">2 années [alternance]</span></label>
+											<span class='frisedate' > 2022</span>
 											<span class='frisecircle'></span>
 											</div>
 											<div class='frisecontent'>
 												<p>
-													BTS Services informatiques aux organisations
+													// BTS Services informatiques aux organisations <br/>
+													// Option SLAM [Solutions Logicielles et Applications Métier]
 													<br/>
-													<i>EFREI (Villejuif 94800)</i>
+													<i>EFREI - Villejuif 94800</i>
 												</p>
 											</div>
 										</li>
@@ -133,15 +133,15 @@
 										<li class='work'>
 											<input class='friseradio' id='work2' name='works' type='radio'>
 											<div class="friserelative">
-											<label class="friselabel" for='work2'>Bachelor <span class="descTime">3 ème année en alternance</span></label>
-											<span class='frisedate' > Sept 2022</span>
+											<label class="friselabel" for='work2'>Bachelor Dev & Data<span class="descTime">1 année [alternance]</span></label>
+											<span class='frisedate' > 2023</span>
 											<span class='frisecircle'></span>
 											</div>
 											<div class='frisecontent'>
 												<p>
-													
+													//Passerelle directement en 3ème année
 													<br/>
-													<i>EFREI (Villejuif 94800)</i>
+													<i>EFREI - Villejuif 94800</i>
 												</p>
 											</div>
 										</li>
@@ -150,13 +150,13 @@
 											<li class='work'>
 												<input class='friseradio' id='work1' name='works' type='radio' checked>
 												<div class="friserelative">
-												<label style="color:#20d459" class="friselabel" for='work1'>Master Dev Manager Full Stack </label>
-												<span class='frisedate'>2025</span>
+												<label class="friselabel" for='work1'>Mastère Dev Manager Full Stack </label>
+												<span class='frisedate'> 2025</span>
 												<span class='frisecircle'></span>
 												</div>
 												<div class='frisecontent'>
 													<p>
-													EFREI (Villejuif 94800)
+													EFREI - Villejuif 94800
 													</p>
 												</div>
 											</li>
@@ -174,13 +174,27 @@
 									<header class="major">
 										<h2>&lt;Expérience professionnelle&gt;</h2>
 									</header>
+									
+									<h2 class="TitreAlt box">
+										Alternance en cours :
+										<span><font color = #b8b8b8>Développeuse Web chez GROUPE BIR</font></span>
+									</h2>
+
+
 									<div class="row">
 										
-										<div class="col-7 col-12-medium">
-											<h2 class="content">
-												<font color = #606060>Alternance en cours : </font>
-											</h2>
-										</div>
+										<!-- <div class="col-7 col-12-medium">
+											<div class="content">
+												<h2>
+													<font color = #606060>Alternance en cours :</font>
+													<span>
+													<font color = #606060>Développeuse Web chez GROUPE BIR</font>
+													</span>
+												</h2>
+												
+											</div>
+											
+										</div> -->
 										
 										<div class="col-7 col-12-medium">
 											<dd><ul class="alt">
@@ -210,7 +224,7 @@
 
 											<div class="centrer">
 												<div class="actions">
-													<a href="assets/stuff/CV.pdf" download="CV - MarieRamssamy.pdf" class="button icon solid fa-download">Télécharger le CV</a>
+													<a href="assets/stuff/CV.pdf" download="CV - Marieramssamy.pdf" class="button icon solid fa-download">Télécharger le CV</a>
 												</div>
 											</div>
 										</div>
@@ -218,29 +232,6 @@
 										
 
 								</section>
-								<!-- <section id = experience>
-									<header class="major">
-										<h2>&lt;Expérience professionnelle&gt;</h2>
-									</header>
-
-									<div class="row">
-										<div class="col-7 col-12-medium">
-											<header class="box">
-												Je suis actuellement en alternance 
-											</header>
-										</div>
-
-										<div class="col-5 col-12-small">
-											
-											<div class="centrer">
-											<div class="actions">
-												<a href="assets/stuff/CV.pdf" download="CV - MarieRamssamy.pdf" class="button icon solid fa-download">Télécharger le CV</a>
-											</div>
-											</div>
-										</div>
-									</div>
-
-								</section> -->
 
 							<!-- PROJETS-->
 								<section  id="Projets">
@@ -253,7 +244,8 @@
 											<h3>Mandelbrot</h3>
 											<p>Pascal</p>
 											<ul class="actions">
-												<li><a href="projets/perso/mandelbrot.php" class="button">More</a></li>
+											<!-- index.php?action=veille -->
+												<li><a href="index.php?action=mandelbrot" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>

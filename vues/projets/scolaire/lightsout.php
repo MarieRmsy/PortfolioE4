@@ -19,7 +19,7 @@
 							<section>
 								<img src="../../assets/stuff/Light.png" style="float: right; margin: 0 4em;" width="7%" height="7%" />	
 								<header class="major">
-									<h6 id="Projets" style="
+									<h6  style="
 									font-weight: bold;
 									">Lightsout  <bobr style="
 									font-weight: 10;
