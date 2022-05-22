@@ -6,6 +6,15 @@
   opacity: 20%;
 }
 
+.virtuozIMG {
+  border-radius: 30px;
+  border: 4px solid #168fac;
+  width: 400px;
+  float: right; 
+  margin: 0 5em; 
+  width: 85%;
+}
+
 .snakeIMG:hover {
   opacity: 100%;
 }

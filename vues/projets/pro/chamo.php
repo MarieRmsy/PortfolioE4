@@ -7,7 +7,7 @@
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
-									">Chamo  <nobr class="typeProj">.js</nobr>
+									">Chamo  <nobr class="typeProj">.ts</nobr>
 									</h6>
 								</header>
 							</section>
@@ -34,18 +34,6 @@
 													<br /><br /><br /><br /> 
 												</dd>
 
-
-											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
-												  ••• Compétences travaillées</dt>
-											<dd>
-												<ul>
-													<li>Rechercher des cours et des supports de <b>bonne qualité</b> sur internet</li>
-													<li>Capacité à <b>assimiler les codes</b> d'un nouveau langage informatique </li>
-													<li>Comprendre le <b>rôle du javascript</b> dans le monde de la programmation</li>
-													<li>Utiliser l'<b>API Discord</b> ainsi que la documentation Discord.js de manière créative<br /><br /><br /></li>
-												</ul>
-											</dd>
-
 										<dt style="border-radius: 10px; border: 3px solid #168fac;">
 											  ➤ Caractéristiques</dt>
 											<dd>
@@ -53,7 +41,7 @@
 													<li>Objet : Projet personnel</li>
 													<li>Type : Coder pour apprendre et s'amuser</li>
 													<li>Période : 2019-2020</li>
-													<li>Logiciel : Visual Studio Code, console Node.js</li>
+													<li>Outis : Visual Studio Code, console Node.js</li>
 												</ul>
 											</dd>
 

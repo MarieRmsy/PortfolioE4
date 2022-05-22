@@ -48,7 +48,7 @@
 													<li>Objet : Projet scolaire</li>
 													<li>Type : Sous linux avec interface graphique SFML</li>
 													<li>Période : Septembre 2021</li>
-													<li>Logiciels : Visual Studio Code, VMWare Workstation Pro, Github Desktop </li>
+													<li>Outis : Visual Studio Code, VMWare Workstation Pro, Github Desktop </li>
 												</ul>
 											</dd>
 
