@@ -78,7 +78,6 @@
 								</header>
 							
 							<div class="row">
-								<!--ROLES-->
 								<div class="col-4 col-12-medium">
 								<p>Mettez à jour votre système d'exploitation</p>
 									<img src="assets/stuff/barre.gif" class="snakeIMG"/>
@@ -103,9 +102,6 @@
 								<p>Glitch lors des malus</p>
 									<img src="assets/stuff/glitch.gif" class="snakeIMG"/>
 								</div>
-
-
-
 							</div>
 
 

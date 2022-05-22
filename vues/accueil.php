@@ -52,28 +52,28 @@
 									<div class="features">
 										
 										<article>
-											<span class="icon fa-gem"></span>
+											<span class="icon fa-gem iconefloat" style="font-size: 1em;"></span>
 											<div class="content">
 												<h3>Passionnée</h3>
 												<p>Avant même d'être étudiante, je suis surtout une personne passionnée et curieuse. J'ai constamment envie d'en apprendre plus et de m'améliorer.</p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-signal"></span>
+											<span class="icon solid fa-signal iconefloat" style="font-size: 1em;"></span>
 											<div class="content">
 												<h3>Efficace</h3>
 												<p>Je suis vive d'esprit tout en étant minutieuse. Je ne peux me contraindre à bâcler un travail. Être efficace, c'est avant tout un rapport vitesse/qualité.</p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-paper-plane"></span>
+											<span class="icon solid fa-paper-plane iconefloat" style="font-size: 1em;"></span>
 											<div class="content">
 												<h3>Motivée</h3>
 												<p id="competences">Trouver des projets est une chose, mais les finir en est une autre. Lorsque j'entreprends un projet, je ne perds jamais de vue mon objectif.</p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-rocket"></span>
+											<span class="icon solid fa-rocket iconefloat" style="font-size: 1em;"></span>
 											<div class="content">
 												<h3>Ambitieuse</h3>
 												<p>Apprendre, c'est comme un projet sur le long terme. C'est une qualité qui requiert un ensemble : la passion, la motivation, et l'amour du travail bien fait.</p>

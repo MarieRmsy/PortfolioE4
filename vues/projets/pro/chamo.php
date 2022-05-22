@@ -26,7 +26,8 @@
 												  ◆ Présentation</dt>
 												<dd>Voici le projet principal réalisé dans mon entreprise au cours de ces deux dernières années.
 													ChaMo, pour Chantier Mobile : Une application web de gestion des chantiers et bien plus.
-													À mon arrivée, le projet avait démarré depuis 1an. 
+													À mon arrivée, le projet avait démarré depuis 1an. J'ai rejoins l'équipe de développeur, et nous sommes deux actuellement à coder le projet.
+
 													<a target="_blank" href="https://angularjs.org/"> Angular.js</a>
 													et <a target = "_blank" href="https://material.angular.io/">Angular Material</a> .
 													<br /><br /><br /><br /> 
@@ -57,91 +58,35 @@
 
 							<!-- Exemples -->
 							</div>
-								<br/><br/><br/>
+							<br/><br/><br/>
 								<header class="major">
-									<h2 >Les bots, qu'est-ce que c'est ?</h2>
+									<h2> La numérisation au coeur du projet</h2>
 								</header>
-								<p>Les bots Discord sont utilisés pour modérer des serveurs, envoyer des images, lancer de la musique, ou encore permettre de jouer à des jeux.
-									La seule limite est l'imagination des créateurs et les limites du langage utilisé elles-mêmes. Voici quelques exemple de ce que j'ai pu coder :
-								</p>
 							
 							<div class="row">
-								<!--ROLES-->
-								<div class="col-7 col-12-medium">
-									<br/><br/>
-									<video controls
-									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
-									autostart="false"
-									width="600">
-										<source src="../../assets/stuff/ritaroles.mp4"/>
-									</video>
-
+								<div class="col-6 col-12-medium">
+								<p>Accès direct au dossiers des chantiers</p>
+									<img src="assets/stuff/chamo/chantier.png" class="chamoIMG"/>
 								</div>
-								<div class="col-5em col-12-medium" style="float: left;">
-									<br/><br/><br/><br/>
-										<p>Attribuer des rôles </p>
-										
-										<dd>
-											<ul class="alt">
-												<li>Filtrer les messages pour n'accepter que les commandes autorisées</li>
-												<li>Suppression automatique des messages du bot</li>
-												<li>Lier l'action "cliquer sur un émoji" avec "ajouter ce rôle à @membre"</li>
-												<li>Lier le channel de logs aux rôles attribués aux membres du serveur<br /><br /><br /></li>
-											</ul>
-										</dd>
+								<div class="col-6 col-12-medium">
+								<p>Numérisation de formulaire papierss</p>
+									<img src="assets/stuff/chamo/formulaires.png" class="chamoIMG"/>
 								</div>
-							
-								<!--LOGS-->
-								<br/><br/><br/>
 								
-								<div class="col-5em col-12-medium" style="float: right;">
-									<br/><br/><br/><br/>
-										<p style="text-align: right;">Récupérer les logs </p>
-										
-										<dd>
-											<ul class="alt2">
-												<li>Créer un channel destiné à la modération des logs</li>
-												<li>Créer un message &lt;embed&gt; clair et intéractif (#channel, @membre...)</li>
-												<li>Créer un système de plaintes anonymes qui parviennent au staff</li>
-												<li>Filtrer l'ID du membre pour ignorer la modération (désactivé en vidéo)<br /><br /><br /></li>
-											</ul>
-										</dd>
+								<div class="col-6 col-12-medium mt-4">
+								<p>Complétez sur votre téléphone, tablette, et PC</p>
+									<img src="assets/stuff/chamo/causerie.png" class="chamoIMG"/>
 								</div>
-								<div class="col-5em col-12-medium">
-									<br/><br/>
-									<video controls
-									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
-									autostart="false" 
-									width="600">
-										<source src="../../assets/stuff/ritalogs.mp4"/>
-									</video>
+								<div class="col-6 col-12-medium mt-4" >
+								<p>Mise à disposition de tutoriels</p>
+									<img src="assets/stuff/chamo/tuto.png" class="chamoIMG"/>
+								</div>
+								<div class="col-6 col-12-medium">
+								<p>Glitch lors des malus</p>
+									<img src="assets/stuff/chamo/glitch.gif" class="chamoIMG"/>
+								</div>
 
-								</div>
-								<!--INFOS-->
-								<div class="col-7 col-12-medium">
-									<br/><br/>
-									<video controls
-									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
-									autostart="false" 
-									
-									width="600">
-										<source src="../../assets/stuff/ritahelp.mp4"/>
-									</video>
 
-								</div>
-								<div class="col-5em col-12-medium" style="float: left;">
-									<br/><br/><br/><br/>
-										<p>Gérer les informations</p>
-										
-										<dd>
-											<ul class="alt">
-												<li>Créer une commande /help regroupant la liste des fonctionnalités du bot</li>
-												<li>Récupérer l'avatar et les informations du profil d'un membre</li>
-												<li>Guider les membres grâce aux informations sur le serveur et une &lt;FAQ&gt;</li>
-												<li>Créer des messages &lt;discord.embed&gt; complexes<br /><br /><br /></li>
-											</ul>
-										</dd>
-								</div>
 
 							</div>
 

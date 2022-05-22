@@ -5,12 +5,12 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a class="logo"><strong>Entreprise</strong></a>
+									<a class="logo"><strong>Groupe BIR</strong></a>
 								</header>
 								<div style="
 								float:right;
-								margin: -0.94em -0.2em 0 0 ;  
-								font-size: 3em; 
+								margin: -0.94em -0.2em 0 0 ;
+								font-size: 3em;
 								color:#20a7d4">•</div>
 								<!-- <div class="trait" style="border-right: 40em solid #168fac"></div> -->
 
