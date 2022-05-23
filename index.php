@@ -163,7 +163,7 @@
 
 									case 3 :
 									echo("
-									<h2 class='titrePage'>{ Épreuve E6 }</h2>
+									<h2 class='titrePage'>{ Épreuve E4 }</h2>
 									");
 									break;
 

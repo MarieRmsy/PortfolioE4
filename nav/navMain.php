@@ -13,7 +13,7 @@
 
 									<br/>
 									<header class="major">
-										<h2><a href="index.php?action=e6">Epreuve E6</a></h2>
+										<h2><a href="index.php?action=e6">Epreuve E4</a></h2>
 									</header>
 								</nav>
 

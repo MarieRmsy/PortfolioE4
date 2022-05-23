@@ -111,7 +111,7 @@
 								<header class="major">
 									<h2>Visuels du jeu</h2>
 								</header>
-									<p>J'ai veillé à créer des visuels unique, avec des collages crées par moi-même.<br/><br/><br/></p>
+									<p>J'ai veillé à créer des visuels uniques, avec des collages crées par moi-même.<br/><br/><br/></p>
 							
 								<div class="row">
 									<!--ROLES-->
