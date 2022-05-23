@@ -31,7 +31,7 @@
                                 <li>
                                     <a class="opener" href="#autre">Autres</a>
                                     <ul>
-                                        <li><a href="index.php?action=projets&projet=trad">Traduction d'un jeu</a></li>
+                                        <!-- <li><a href="index.php?action=projets&projet=trad">Traduction d'un jeu</a></li> -->
                                         <li><a href="index.php?action=projets&projet=bwa">Logo BWA INVEST</a></li>
 										<li><a href="index.php?action=projets&projet=logoBir">Logos BIR</a></li>
 										<li><a href="index.php?action=projets&projet=tutos">Tutos Chamo</a></li>

@@ -27,31 +27,8 @@
 													</br>
 													Cette société a débuté avec la pose de réseaux électriques, de gaz, d'eau et de tuyauterie industrielle.
 													Elle s'est ensuite agrandie en devenant un groupe afin d'innover et de diversifier ses prestations.
-													Le Groupe BIR est aujourd'hui leader de son secteur en Ile-de-France et en Champagne.<br/><br/>
-									
-												</p> <dt style="border-radius: 10px; border: 3px solid #168fac;" >
-													  ◆ Présentation</dt>
-													<dd>dd
-														s
-													</dd>
-
-
-												<dt style="border-radius: 10px; border: 3px solid #168fac;" >
-													  ••• Compétences travaillées</dt>
-												<dd>
-													<ul>
-														<li>Rechercher des cours et des supports de <b>bonne qualité</b> sur internet</li>
-													</ul>
-												</dd>
-
-												<dt style="border-radius: 10px; border: 3px solid #168fac;">
-												  ➤ Caractéristiques</dt>
-												<dd>
-													<ul class="alt">
-														<li>Objet : Projet personnel</li>
-														<li>Type : Coder pour apprendre et s'amuser</li>
-													</ul>
-												</dd>
+													Le Groupe BIR est aujourd'hui leader de son secteur en Ile-de-France et en Champagne.<br/>
+												</p> 
 
 												</dl>
 											</div> 
@@ -67,5 +44,26 @@
 
 							</div>
 								</section>
+
+							<header class="major">
+								<h2>Filliales</h2>
+							</header>
+							
+							<div class="box alt">
+								<div class="row gtr-50 gtr-uniform">
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/9.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/2.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/3.png" alt="" /></div></div>
+									<!-- Break -->
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/4.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/5.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/6.png" alt="" /></div></div>
+									<!-- Break -->
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/7.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/8.png" alt="" /></div></div>
+									<div class="col-4"><div class="image fit"><img src="assets/stuff/chamo/1.png" alt="" /></div></div>
+								</div>
+							</div>
+
 						</div>
 					</div>

@@ -31,7 +31,7 @@
 										<article>
 												<a href="index.php?action=projets&projet=refontes" class="image"><img src="assets/images/refonte.png" alt="" /></a>
 												<h2>Refonte de sites web</h2>
-												<p>HTML, CSS, JS</p>
+												<p>Html, css, js</p>
 										</article>
 									</div>
 									
@@ -57,8 +57,8 @@
 										</article>
 										<article>
 											<a href="index.php?action=projets&projet=qv" class="image"><img src="assets/images/qv.png" alt="" /></a>
-											<h2>Bots Discord</h2>
-											<p>Javascript, discord.js</p>
+											<h2>Portfolio Q.Varalli</h2>
+											<p>Html, css, js</p>
 										</article>
 									</div>
 									
@@ -116,14 +116,21 @@
 									<br/><br/>
 									<div class="posts">
 										<article>
-											<a href="projets/perso/mandelbrot.php" class="image"><img src="assets/stuff/EVOLUTION/M15.png" alt="" /></a>
-											<h3>Traduction d'un jeu</h3>
-											<p>Anglais</p>
+											<a href="index.php?action=projets&projet=bwa" class="image"><img src="assets/images/bwa.png" alt="" /></a>
+											<h2>Logos BWA</h2>
 										</article>
 										<article>
-											<a href="projets/perso/discord.php" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-											<h3>Montage Vidéo</h3>
-											<p>...</p>
+											<a href="index.php?action=projets&projet=logoBir" class="image"><img src="assets/images/bir.png" alt="" /></a>
+											<h2>Logos BIR</h2>
+										</article>
+										<article>
+											<a href="soon.php" class="image"><img src="assets/images/pm.png" alt="" /></a>
+											<h2>Traduction d'un jeu 1D</h2>
+											<p>Javascript, discord.js</p>
+										</article>
+										<article>
+											<a href="index.php?action=projets&projet=tutos" class="image"><img src="assets/images/tuto.png" alt="" /></a>
+											<h2>Tutoriel ChaMo</h2>
 										</article>
 									</div>
 									

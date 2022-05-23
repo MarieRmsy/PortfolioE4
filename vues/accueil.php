@@ -157,7 +157,7 @@
 												</div>
 												<div class='frisecontent'>
 													<p>
-													EFREI - Villejuif 94800
+													<i>EFREI - Villejuif 94800</i>
 													</p>
 												</div>
 											</li>

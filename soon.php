@@ -2,11 +2,13 @@
 
 <html>
 	<head>
-		<title>Projets - M.R Portoflio</title>
-		<meta charset="utf-8" />
+		<link href='http://fonts.googleapis.com/css?family=ProductSans' rel='stylesheet' type='text/css'>
+		<title>Portfolio - Marie Ramssamy</title>
+		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="shortcut icon" type="image/png" href="assets/stuff/efreicarre.png"/>
+		<link rel="stylesheet" href="assets/css/main.css" type="text/css"/>
+		<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+		<link rel="shortcut icon" type="image/png" href="assets/stuff/MR.png"/>
 	</head>
 	<body class="is-preload">
 
@@ -22,7 +24,7 @@
 								<header id="header">
 									<a class="logo"><strong>Coming soon...</strong></a>
 								</header>
-                                <h2 style="margin-top: 100px;"><a href="index.php">Retour</a></h2>
+                                <h2 style="margin-top: 100px;"><a href="index.php">Accueil</a></h2>
                             </center>
 								
 						</div>

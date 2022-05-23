@@ -27,7 +27,7 @@
 												<dd>Le projet Snake était une occasion de pratiquer et d'apprendre de façon ludique.
 													En partant d'un jeu connu de tous, j'ai imaginé une version moderne et fun dont le comportement évolue selon le succès ou l'échec du joueur.
 													La conception des visuels était également amusante, cependant ceux-ci participent à un univers graphique un peu trop épileptique au goût de certains.
-													<br /><br /><br /><br /> 
+													<br /><br />
 												</dd>
 
 
@@ -49,7 +49,7 @@
 													<li>Objet : Projet scolaire</li>
 													<li>Type : Sous linux avec interface graphique SFML</li>
 													<li>Période : Septembre 2021</li>
-													<li>Outis : Visual Studio Code, VMWare Workstation Pro (VM Linux), Github Desktop </li>
+													<li>Outis : Visual Studio Code, VMWare Workstation Pro (VM Linux), Photomosh </li>
 												</ul>
 											</dd>
 
@@ -63,7 +63,7 @@
 									<video controls
 									style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false" 
-									width="620">
+									width="620" autoplay loop>
 										<source src="assets/stuff/snake.mp4"/>
 									</video>
 									

@@ -67,9 +67,9 @@
 										<video controls
 										style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
 										autostart="false" 
-										width="620">
+										width="620" autoplay loop>
 											<source src="assets/stuff/homu.mp4"/>
-										</video>
+										autoplay</video>
 										
 									</div>
 								</div>
@@ -90,7 +90,7 @@
 									<video controls
 									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false"
-									width="600">
+									width="600" autoplay loop>
 										<source src="assets/stuff/ritaroles.mp4"/>
 									</video>
 
@@ -130,7 +130,7 @@
 									<video controls
 									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false" 
-									width="600">
+									width="600" autoplay loop>
 										<source src="assets/stuff/ritalogs.mp4"/>
 									</video>
 
@@ -142,7 +142,7 @@
 									style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 									autostart="false" 
 									
-									width="600">
+									width="600" autoplay loop>
 										<source src="assets/stuff/ritahelp.mp4"/>
 									</video>
 

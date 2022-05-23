@@ -24,7 +24,7 @@
 											<dt style="border-radius: 10px; border: 3px solid #168fac;" >
 												  ◆ Présentation</dt>
 												<dd>À l'occasion de sa recherche d'alternance, j'ai décidé de coder le site internet de Quentin Varalli.
-												<br/><br/>Dans l'urgence, j'ai décidé d'utiliser un <a target="blank_" href="https://html5up.net/ethereal">template.</a>
+												<br/>Dans l'urgence, j'ai décidé d'utiliser un <a target="blank_" href="https://html5up.net/ethereal">template.</a>
 													Je me suis donc appropriée le code et son css, pour réintégrer plusieurs éléments et fonctionnalités nécessaires.	
 													<br/><br/>Le site est compatible sur téléphone, et il s'agit du projet qui m'a le plus formé en CSS.
 													<br/><br/> 

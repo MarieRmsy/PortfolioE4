@@ -63,7 +63,7 @@
 						style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
 						autostart="false" 
 						eight="120" 
-						width="650">
+						width="650" autoplay loop>
 							<source src="assets/stuff/jeudesallumettes.mp4"/>
 						</video>
 						

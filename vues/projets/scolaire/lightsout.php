@@ -63,7 +63,7 @@
 						style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
 						autostart="false" 
 						eight="120" 
-						width="650">
+						width="650" autoplay loop>
 							<source src="assets/stuff/LightsoutWin.mp4"/>
 						</video>
 					</div>
@@ -79,7 +79,7 @@
 						style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 						autostart="false" 
 						eight="120" 
-						width="450">
+						width="450" autoplay loop>
 							<source src="assets/stuff/LightsOutMission.mp4"/>
 						</video>
 

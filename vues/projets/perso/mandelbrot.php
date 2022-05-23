@@ -73,7 +73,7 @@
 						style="float: right; border-radius: 30px; border: 4px solid #168fac;"
 						autostart="false" 
 						eight="80%" 
-						width="80%">
+						width="80%" autoplay loop>
 							<source src="assets/stuff/evolution MANDELBROT.mp4"/>
 						</video>
 					</div>
@@ -110,6 +110,6 @@
 					</div>
 				</div>
 
-						
+				</section>		
 						</div>
 			</div>
