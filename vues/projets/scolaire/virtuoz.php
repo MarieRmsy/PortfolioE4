@@ -27,7 +27,7 @@
 												<dd>Le projet Virtuoz avait pour consigne la création d'un site de gestion d'utilisateurs.
 													Il a été nommé ainsi car il devait s'agir d'un conservatoire en ligne.
 													Nous devions permettre la réservation de cours de musique, afin de rendre le site plus vivant et interactif.
-													<br /><br /><br /><br /> 
+													<br/><br/> 
 												</dd>
 
 										<dt style="border-radius: 10px; border: 3px solid #168fac;">
@@ -35,14 +35,22 @@
 											<dd>
 												<ul class="alt">
 													<li>Objet : Projet scolaire</li>
-													<li>Type : Projet Web pour l'épreuve E4 du BTS</li>
+													<li>Type : Projet pour l'épreuve E4 du BTS</li>
 													<li>Période : Novembre 2022, Mars 2022</li>
 													<li>Outis : Visual Studio Code, phpMyAdmin</li>
 												</ul>
 											</dd>
 
+										<dt style="border-radius: 10px; border: 3px solid #168fac;">
+											  ➤ Lien web</dt>
+											<dd>
+											<p><a target="blank_" href="http://www.virtuoz.mariermsy.fr/">www.virtuoz.mariermsy</a></p>
+											</dd>
+
 											</dl>
+
 										</div>
+										
 									</div>
 								
 								</div>

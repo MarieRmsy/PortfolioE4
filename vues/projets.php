@@ -28,6 +28,11 @@
 												<h2>Application Chamo</h2>
 												<p>Angular JS, Typescript</p>
 										</article>
+										<article>
+												<a href="index.php?action=projets&projet=refontes" class="image"><img src="assets/images/refonte.png" alt="" /></a>
+												<h2>Refonte de sites web</h2>
+												<p>HTML, CSS, JS</p>
+										</article>
 									</div>
 									
 								</section>
@@ -42,6 +47,16 @@
 									<div class="posts">
 										<article>
 											<a href="index.php?action=projets&projet=discord" class="image"><img src="assets/images/bot.png" alt="" /></a>
+											<h2>Bots Discord</h2>
+											<p>Javascript, discord.js</p>
+										</article>
+										<article>
+											<a href="index.php?action=projets&projet=mandelbrot" class="image"><img src="assets/images/mandelbrot.png" alt="" /></a>
+											<h2>MandelBrot</h2>
+											<p>Pascal</p>
+										</article>
+										<article>
+											<a href="index.php?action=projets&projet=qv" class="image"><img src="assets/images/qv.png" alt="" /></a>
 											<h2>Bots Discord</h2>
 											<p>Javascript, discord.js</p>
 										</article>
@@ -74,9 +89,19 @@
 											<p>Python</p>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+											<a href="index.php?action=projets&projet=virtuoz" class="image"><img src="assets/images/virtuoz.png" alt="" /></a>
+											<h2>Virtuoz</h2>
+											<p>Html, Css, Php</p>
+										</article>
+										<article>
+											<a href="soon.php" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
 											<h2>Morpion</h2>
 											<p>Python</p>
+										</article>
+										<article>
+											<a href="soon.php" class="image"><img src="assets/images/calcul.png" alt="" /></a>
+											<h2>Calculatrice</h2>
+											<p>C</p>
 										</article>
 									</div>
 									

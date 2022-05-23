@@ -23,9 +23,9 @@
 										<li><a href="index.php?action=projets&projet=snake">Snake</a></li>
 										<li><a href="index.php?action=projets&projet=lightsout">Lightsout</a></li>
 										<li><a href="index.php?action=projets&projet=allumettes">Jeu des allumettes</a></li>
-										<li><a href="index.php?action=projets&projet=m2l">Maison des ligues</a></li>
+										<!-- <li><a href="index.php?action=projets&projet=m2l">Maison des ligues</a></li> -->
 										<li><a href="index.php?action=projets&projet=virtuoz">Virtuoz</a></li>
-										<li><a href="index.php?action=projets&projet=calculatrice">Calculatrice</a></li>
+										<!-- <li><a href="index.php?action=projets&projet=calculatrice">Calculatrice</a></li> -->
 									</ul>
 								</li>
                                 <li>

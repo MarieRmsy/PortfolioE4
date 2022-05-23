@@ -2,7 +2,7 @@
 					<div id="main">
 						<div class="inner">
 							<section>
-								<img src="../../assets/stuff/Light.png" style="float: right; margin: 0 4em;" width="7%" height="7%" />	
+								<img src="assets/stuff/Light.png" style="float: right; margin: 0 4em;" width="7%" height="7%" />	
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
@@ -64,7 +64,7 @@
 						autostart="false" 
 						eight="120" 
 						width="650">
-							<source src="../../assets/stuff/LightsoutWin.mp4"/>
+							<source src="assets/stuff/LightsoutWin.mp4"/>
 						</video>
 					</div>
 				</div>
@@ -80,7 +80,7 @@
 						autostart="false" 
 						eight="120" 
 						width="450">
-							<source src="../../assets/stuff/LightsOutMission.mp4"/>
+							<source src="assets/stuff/LightsOutMission.mp4"/>
 						</video>
 
 					</div>

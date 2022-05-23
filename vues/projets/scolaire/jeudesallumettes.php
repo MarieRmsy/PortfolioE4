@@ -3,7 +3,7 @@
 					<div id="main">
 						<div class="inner">
 							<section>
-								<img src="assets/stuff/allumettes.png" style="float: right; margin: 0 5em 0 5em;" width="7%" height="7%" />	
+								<img src="assets/stuff/allumettes.png" style="float: right; margin: 0 5em 0 5em; width:10%;"/>	
 								<header class="major">
 									<h6  style="
 									font-weight: bold;
