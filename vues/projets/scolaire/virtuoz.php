@@ -35,7 +35,7 @@
 											<dd>
 												<ul class="alt">
 													<li>Objet : Projet scolaire</li>
-													<li>Type : Projet pour l'épreuve E4 du BTS</li>
+													<li>Type : Projet pour l'épreuve e6 du BTS</li>
 													<li>Période : Novembre 2022, Mars 2022</li>
 													<li>Outis : Visual Studio Code, phpMyAdmin</li>
 												</ul>

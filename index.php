@@ -119,18 +119,18 @@
 					}
 					break;
 
-					case 'e4' :
-					include("vues/E4/btssio.php");
+					case 'e6' :
+					include("vues/e6/btssio.php");
 					$nav = 3;
 					break;
 
 					case 'veille' :
-					include("vues/E4/veille.php");
+					include("vues/e6/veille.php");
 					$nav = 3;
 					break;
 	
 					case 'entreprise':
-					include("vues/E4/entreprise.php");
+					include("vues/e6/entreprise.php");
 					$nav = 3;
 					break;
 
@@ -163,7 +163,7 @@
 
 									case 3 :
 									echo("
-									<h2 class='titrePage'>{ Épreuve E4 }</h2>
+									<h2 class='titrePage'>{ Épreuve E6 }</h2>
 									");
 									break;
 
@@ -211,7 +211,7 @@
 									// include("nav/navProjet1.php");
 									// break;
 
-									// case 'e4' :
+									// case 'e6' :
 									// include("nav/navE4.php");
 									// break;
 									
