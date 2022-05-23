@@ -120,17 +120,17 @@
 					break;
 
 					case 'e6' :
-					include("vues/e6/btssio.php");
+					include("vues/E6/btssio.php");
 					$nav = 3;
 					break;
 
 					case 'veille' :
-					include("vues/e6/veille.php");
+					include("vues/E6/veille.php");
 					$nav = 3;
 					break;
 	
 					case 'entreprise':
-					include("vues/e6/entreprise.php");
+					include("vues/E6/entreprise.php");
 					$nav = 3;
 					break;
 
