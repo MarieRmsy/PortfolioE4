@@ -197,7 +197,7 @@
 									break;
 
 									case 3 :
-									include("nav/navE4.php");
+									include("nav/navE6.php");
 									break;
 
 									default: include("nav/navMain.php");
@@ -212,11 +212,11 @@
 									// break;
 
 									// case 'e6' :
-									// include("nav/navE4.php");
+									// include("nav/navE6.php");
 									// break;
 									
 									// case 'veille' :
-									// include("nav/navE4.php");
+									// include("nav/navE6.php");
 									// break;
 
 									// default: include("nav/navMain.php");
