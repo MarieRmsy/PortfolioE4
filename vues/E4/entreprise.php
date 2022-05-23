@@ -25,7 +25,7 @@
 												<p>
 													Le groupe BIR est spécialiste des travaux publics et de l'aménagement de voirie et paysager.
 													</br>
-													Cette société a débuté avec la pose de réseaux électriques, de gaz, d'eau et de tuyauterie industrielle.
+													Cette société a débuté avec la pose de réseaux électriques, de gaz, d'eau et de tuyauterie industrielle, avec BIR en 1972.
 													Elle s'est ensuite agrandie en devenant un groupe afin d'innover et de diversifier ses prestations.
 													Le Groupe BIR est aujourd'hui leader de son secteur en Ile-de-France et en Champagne.<br/>
 												</p> 

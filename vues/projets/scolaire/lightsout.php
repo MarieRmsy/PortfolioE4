@@ -61,8 +61,7 @@
 					<div class="col-6 col-12-medium">
 						<video controls
 						style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
-						autostart="false" 
-						eight="120" 
+						autostart="false"
 						width="650" autoplay loop>
 							<source src="assets/stuff/LightsoutWin.mp4"/>
 						</video>
@@ -77,8 +76,7 @@
 						<br/><br/>
 						<video controls
 						style="float: right; border-radius: 30px; border: 4px solid #168fac;"
-						autostart="false" 
-						eight="120" 
+						autostart="false"
 						width="450" autoplay loop>
 							<source src="assets/stuff/LightsOutMission.mp4"/>
 						</video>

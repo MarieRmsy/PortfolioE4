@@ -21,14 +21,37 @@
 									<h2><font color = #168fac>Qu'est-ce que la veille technologique ?</font></h2>
 									<h4>
 										La veille technologique, élément de la veille stratégique, consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donnée. La veille technologique comprend notamment la surveillance, la collecte, le partage et la diffusion d’information permettant d’anticiper ou de s’informer sur des changements en matière de recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts, innovation de fabrication, etc…. Cela a pour but d’évaluer l’impact sur l’environnement et l’organisation.</h4>
-									
 								</header>
 								</section>
-								<p> <b>&#10095; SUJET : </b>  <span style="font-size: 20px;"> Santé et robotisation : les prothèses bioniques </span> </p>
-									<h2>Contrôler des membres de notre corps par notre pensée ?</h2>
+
+								<div class="row">
+					
+									<div class="col-5 col-12-medium">
+										<p> <b>&#10095; SUJET : </b>
+										<span style="font-size: 20px;">Santé et robotisation : les prothèses bioniques </span>
+										</p>
+										<h2>Contrôler les prothèses bioniques par notre pensée ?</h2>
+										<img src="assets/stuff/prot.jpg" style="float: right; margin: 0 5em 0 5em;"/>	
+
+									</div>
+									<div class="col-7 col-12-medium">
+										<!-- <div class="image">
+										<embed src="assets/stuff/VEILLE/Robotisation.pdf" style="float: right; margin: 0em;" width=800 height=430 type='application/pdf'/>
+										</div> -->
+										<video controls
+										style="float: right; border-radius: 30px; border: 4px solid #168fac;"
+										autostart="false"
+										width="100%" autoplay loop>
+											<source src="assets/stuff/VEILLE/Robotisation.mp4"/>
+										</video>
+									</div>
+									
+								</div>
+								</br></br></br>
 								<section>
 									
-									
+								<h2>Veille d'articles</h2>
+
 								<div class="posts">
 										<article>
 											<a href="index.php?action=projets&projet=chamo" class="image">

@@ -119,7 +119,6 @@
 											</div>
 											<div class='frisecontent'>
 												<p>
-													// BTS Services informatiques aux organisations <br/>
 													// Option SLAM [Solutions Logicielles et Applications Métier]
 													<br/>
 													<i>EFREI - Villejuif 94800</i>
@@ -140,7 +139,7 @@
 											</div>
 											<div class='frisecontent'>
 												<p>
-													//Passerelle directement en 3ème année
+													// Passerelle directement en 3ème année
 													<br/>
 													<i>EFREI - Villejuif 94800</i>
 												</p>
@@ -203,7 +202,7 @@
 													
 													<li><br/>📅 Rythme 2j école / 3j entreprise</li><br/>
 													
-													<li><br/>📊 Entreprise : Rovanier SA <a href="https://www.groupebir.fr/" target="_blank">(GROUPE BIR)</a></li><br/>
+													<li><br/>📊 Entreprise : <a href="https://www.groupebir.fr/" target="_blank">(GROUPE BIR)</a></li><br/>
 
 													<li><br/>🌐 Secteur : BTP, dans le service informatique</li><br/>
 											</ul></dd>

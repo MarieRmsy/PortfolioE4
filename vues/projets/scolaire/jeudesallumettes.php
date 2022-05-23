@@ -61,8 +61,7 @@
 					<div class="col-6 col-12-medium">
 						<video controls
 						style="position: relative; border-radius: 30px; border: 4px solid #168fac;"
-						autostart="false" 
-						eight="120" 
+						autostart="false"
 						width="650" autoplay loop>
 							<source src="assets/stuff/jeudesallumettes.mp4"/>
 						</video>
