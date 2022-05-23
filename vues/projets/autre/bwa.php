@@ -13,6 +13,8 @@
 							</section>
 
 						<div class="box">
+							<p>Logos que j'ai crée pour l'entreprise d'un ami.</p>
+							
 							<header class="major">
 								<h2>Gallery</h2>
 							</header>
